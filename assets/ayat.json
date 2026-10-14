@@ -1,0 +1,3439 @@
+{
+  "source": {
+    "retrieved": "2026-10-14",
+    "api": "https://api.quran.com/api/v4",
+    "ar": "Uthmani script (quran.com, verses/uthmani)",
+    "en": "Saheeh International (quran.com translation 20)",
+    "de": "Frank Bubenheim & Nadeem Elyas (quran.com translation 27)",
+    "note": "Footnote markers removed; text otherwise unchanged. Translations are copyrighted by their publishers."
+  },
+  "categories": [
+    {
+      "id": "patience",
+      "name": {
+        "de": "Geduld",
+        "en": "Patience"
+      }
+    },
+    {
+      "id": "gratitude",
+      "name": {
+        "de": "Dankbarkeit",
+        "en": "Gratitude"
+      }
+    },
+    {
+      "id": "mercy",
+      "name": {
+        "de": "Barmherzigkeit",
+        "en": "Mercy"
+      }
+    },
+    {
+      "id": "trust",
+      "name": {
+        "de": "Gottvertrauen",
+        "en": "Trust in Allah"
+      }
+    },
+    {
+      "id": "prayer",
+      "name": {
+        "de": "Gebet",
+        "en": "Prayer"
+      }
+    },
+    {
+      "id": "forgiveness",
+      "name": {
+        "de": "Vergebung",
+        "en": "Forgiveness"
+      }
+    },
+    {
+      "id": "hope",
+      "name": {
+        "de": "Hoffnung",
+        "en": "Hope"
+      }
+    },
+    {
+      "id": "guidance",
+      "name": {
+        "de": "Rechtleitung",
+        "en": "Guidance"
+      }
+    }
+  ],
+  "ayat": [
+    {
+      "surah": 1,
+      "ayah": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": {
+        "de": "Im Namen Allahs, des Allerbarmers, des Barmherzigen.",
+        "en": "In the name of Allāh, the Entirely Merciful, the Especially Merciful."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 1,
+      "ayah": 3,
+      "arabic": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": {
+        "de": "dem Allerbarmer, dem Barmherzigen,",
+        "en": "The Entirely Merciful, the Especially Merciful,"
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 1,
+      "ayah": 6,
+      "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+      "translation": {
+        "de": "Leite uns den geraden Weg,",
+        "en": "Guide us to the straight path -"
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 2,
+      "arabic": "ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+      "translation": {
+        "de": "Dieses Buch, an dem es keinen Zweifel gibt, ist eine Rechtleitung für die Gottesfürchtigen,",
+        "en": "This is the Book about which there is no doubt, a guidance for those conscious of Allāh -"
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 38,
+      "arabic": "قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًا ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَن تَبِعَ هُدَاىَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "translation": {
+        "de": "Wir sagten: Geht alle fort von ihm (, dem Paradiesgarten). Wenn nun von Mir Rechtleitung zu euch kommt, dann soll über diejenigen, die Meiner Rechtleitung folgen, keine Furcht kommen, noch sollen sie traurig sein.",
+        "en": "We said, \"Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance - there will be no fear concerning them, nor will they grieve."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 43,
+      "arabic": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱرْكَعُوا۟ مَعَ ٱلرَّٰكِعِينَ",
+      "translation": {
+        "de": "Und verrichtet das Gebet, entrichtet die Abgabe und verbeugt euch (im Gebet) mit den sich Verbeugenden!",
+        "en": "And establish prayer and give zakāh and bow with those who bow [in worship and obedience]."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 45,
+      "arabic": "وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَـٰشِعِينَ",
+      "translation": {
+        "de": "Und sucht Hilfe in der Standhaftigkeit und im Gebet! Es ist freilich schwer, nur nicht für die Demütigen,",
+        "en": "And seek help through patience and prayer; and indeed, it is difficult except for the humbly submissive [to Allāh]"
+      },
+      "categories": [
+        "patience",
+        "prayer"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 110,
+      "arabic": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "translation": {
+        "de": "Und verrichtet das Gebet und entrichtet die Abgabe. Und was ihr für euch selbst an Gutem vorausschickt, werdet ihr bei Allah finden. Was ihr tut, sieht Allah wohl.",
+        "en": "And establish prayer and give zakāh, and whatever good you put forward for yourselves - you will find it with Allāh. Indeed Allāh, of what you do, is Seeing."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 152,
+      "arabic": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+      "translation": {
+        "de": "Gedenkt Meiner, so gedenke Ich eurer. Seid Mir dankbar und seid nicht undankbar gegen Mich.",
+        "en": "So remember Me; I will remember you. And be grateful to Me and do not deny Me."
+      },
+      "categories": [
+        "gratitude",
+        "prayer"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 153,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ",
+      "translation": {
+        "de": "O die ihr glaubt, sucht Hilfe in der Standhaftigkeit und im Gebet! Allah ist mit den Standhaften.",
+        "en": "O you who have believed, seek help through patience and prayer. Indeed, Allāh is with the patient."
+      },
+      "categories": [
+        "patience",
+        "prayer"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 155,
+      "arabic": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّـٰبِرِينَ",
+      "translation": {
+        "de": "Und Wir werden euch ganz gewiß mit ein wenig Furcht und Hunger und Mangel an Besitz, Seelen und Früchten prüfen. Doch verkünde frohe Botschaft den Standhaften,",
+        "en": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient,"
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 156,
+      "arabic": "ٱلَّذِينَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ",
+      "translation": {
+        "de": "die, wenn sie ein Unglück trifft, sagen: „Wir gehören Allah, und zu Ihm kehren wir zurück.",
+        "en": "Who, when disaster strikes them, say, \"Indeed we belong to Allāh, and indeed to Him we will return.\""
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 163,
+      "arabic": "وَإِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ لَّآ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ",
+      "translation": {
+        "de": "Euer Gott ist ein Einziger Gott. Es gibt keinen Gott außer Ihm, dem Allerbarmer, dem Barmherzigen.",
+        "en": "And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 172,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "translation": {
+        "de": "O die ihr glaubt, eßt von den guten Dingen, mit denen Wir euch versorgt haben, und seid Allah dankbar, wenn ihr Ihm (allein) dient!",
+        "en": "O you who have believed, eat from the good [i.e., lawful] things which We have provided for you and be grateful to Allāh if it is [indeed] Him that you worship."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 186,
+      "arabic": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+      "translation": {
+        "de": "Und wenn dich Meine Diener nach Mir fragen, so bin Ich nahe; Ich erhöre den Ruf des Bittenden, wenn er Mich anruft. So sollen sie nun auf Mich hören und an Mich glauben, auf daß sie besonnen handeln mögen.",
+        "en": "And when My servants ask you, [O Muḥammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 201,
+      "arabic": "وَمِنْهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْـَٔاخِرَةِ حَسَنَةً وَقِنَا عَذَابَ ٱلنَّارِ",
+      "translation": {
+        "de": "Unter ihnen gibt es aber auch solche, die sagen: „Unser Herr, gib uns im Diesseits Gutes und im Jenseits Gutes, und bewahre uns vor der Strafe des (Höllen)feuers!",
+        "en": "But among them is he who says, \"Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.\""
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 214,
+      "arabic": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ وَزُلْزِلُوا۟ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ مَتَىٰ نَصْرُ ٱللَّهِ ۗ أَلَآ إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌ",
+      "translation": {
+        "de": "Oder meint ihr etwa, daß ihr in den (Paradies)garten eingehen werdet, noch bevor Gleiches über euch gekommen ist, wie über diejenigen, die vor euch dahingegangen sind? Not und Leid widerfuhr ihnen, und sie wurden erschüttert, bis daß der Gesandte und diejenigen, die mit ihm glaubten, sagten: „Wann kommt Allahs Sieg? Aber wahrlich, Allahs Sieg ist nahe.",
+        "en": "Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, \"When is the help of Allāh?\" Unquestionably, the help of Allāh is near."
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 238,
+      "arabic": "حَـٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَـٰنِتِينَ",
+      "translation": {
+        "de": "Haltet die Gebete ein, und (besonders) das mittlere Gebet, und steht demütig ergeben vor Allah.",
+        "en": "Maintain with care the [obligatory] prayers and [in particular] the middle [i.e., ʿaṣr] prayer and stand before Allāh, devoutly obedient."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 257,
+      "arabic": "ٱللَّهُ وَلِىُّ ٱلَّذِينَ ءَامَنُوا۟ يُخْرِجُهُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۖ وَٱلَّذِينَ كَفَرُوٓا۟ أَوْلِيَآؤُهُمُ ٱلطَّـٰغُوتُ يُخْرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَـٰتِ ۗ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+      "translation": {
+        "de": "Allah ist der Schutzherr derjenigen, die glauben. Er bringt sie aus den Finsternissen heraus ins Licht. Diejenigen aber, die ungläubig sind, deren Schutzherren sind die falschen Götter. Sie bringen sie aus dem Licht hinaus in die Finsternisse. Das sind Insassen des (Höllen)feuers. Ewig werden sie darin bleiben.",
+        "en": "Allāh is the Ally of those who believe. He brings them out from darknesses into the light. And those who disbelieve - their allies are ṭāghūt. They take them out of the light into darknesses. Those are the companions of the Fire; they will abide eternally therein."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 263,
+      "arabic": "۞ قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِّن صَدَقَةٍ يَتْبَعُهَآ أَذًى ۗ وَٱللَّهُ غَنِىٌّ حَلِيمٌ",
+      "translation": {
+        "de": "Freundliche Worte und Vergebung sind besser als ein Almosen, dem Beleidigungen nachfolgen. Allah ist Unbedürftig und Nachsichtig.",
+        "en": "Kind speech and forgiveness are better than charity followed by injury. And Allāh is Free of need and Forbearing."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 268,
+      "arabic": "ٱلشَّيْطَـٰنُ يَعِدُكُمُ ٱلْفَقْرَ وَيَأْمُرُكُم بِٱلْفَحْشَآءِ ۖ وَٱللَّهُ يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "translation": {
+        "de": "Der Satan verspricht euch Armut und befiehlt euch Schändliches. Allah aber verspricht euch Vergebung von Sich aus und Huld. Allah ist Allumfassend und Allwissend.",
+        "en": "Satan threatens you with poverty and orders you to immorality, while Allāh promises you forgiveness from Him and bounty. And Allāh is all-Encompassing and Knowing."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 277,
+      "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "translation": {
+        "de": "Gewiß, diejenigen, die glauben und rechtschaffene Werke tun, das Gebet verrichten und die Abgabe entrichten, die haben ihren Lohn bei ihrem Herrn, und keine Furcht soll sie überkommen, noch werden sie traurig sein.",
+        "en": "Indeed, those who believe and do righteous deeds and establish prayer and give zakāh will have their reward with their Lord, and there will be no fear concerning them, nor will they grieve."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 286,
+      "arabic": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+      "translation": {
+        "de": "Allah erlegt keiner Seele mehr auf, als sie zu leisten vermag. Ihr kommt (nur) zu, was sie verdient hat, und angelastet wird ihr (nur), was sie verdient hat. „Unser Herr, belange uns nicht, wenn wir (etwas) vergessen oder einen Fehler begehen. Unser Herr, lege uns keine Bürde auf, wie Du sie denjenigen vor uns auferlegt hast. Unser Herr, bürde uns nichts auf, wozu wir keine Kraft haben. Verzeihe uns, vergib uns und erbarme Dich unser! Du bist unser Schutzherr. So verhilf uns zum Sieg über das ungläubige Volk!",
+        "en": "Allāh does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\""
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 8,
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "translation": {
+        "de": "Unser Herr, lasse unsere Herzen nicht abschweifen, nachdem Du uns rechtgeleitet hast, und schenke uns Erbarmen von Dir aus. Du bist ja der unablässig Schenkende.",
+        "en": "[Who say], \"Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 16,
+      "arabic": "ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ",
+      "translation": {
+        "de": "die sagen: „Unser Herr, gewiß, wir glauben. Darum vergib uns unsere Sünden und bewahre uns vor der Strafe des (Höllen)feuers.",
+        "en": "Those who say, \"Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire,\""
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 17,
+      "arabic": "ٱلصَّـٰبِرِينَ وَٱلصَّـٰدِقِينَ وَٱلْقَـٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ",
+      "translation": {
+        "de": "Die Standhaften und die Wahrhaftigen, die demütig Ergebenen und diejenigen, die ausgeben, und die im letzten Teil der Nacht um Vergebung Bittenden.",
+        "en": "The patient, the true, the obedient, those who spend [in the way of Allāh], and those who seek forgiveness before dawn."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 31,
+      "arabic": "قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "translation": {
+        "de": "Sag: Wenn ihr Allah liebt, dann folgt mir. So liebt euch Allah und vergibt euch eure Sünden. Allah ist Allvergebend und Barmherzig.",
+        "en": "Say, [O Muḥammad], \"If you should love Allāh, then follow me, [so] Allāh will love you and forgive you your sins. And Allāh is Forgiving and Merciful.\""
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 38,
+      "arabic": "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ",
+      "translation": {
+        "de": "Da rief Zakariyya seinen Herrn an und sagte: „Mein Herr, schenke mir von Dir aus gute Nachkommenschaft! Du bist ja der Gebetserhörer.",
+        "en": "At that, Zechariah called upon his Lord, saying, \"My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.\""
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 51,
+      "arabic": "إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+      "translation": {
+        "de": "Gewiß, Allah ist mein Herr und euer Herr; so dient Ihm. Das ist ein gerader Weg’.",
+        "en": "Indeed, Allāh is my Lord and your Lord, so worship Him. That is the straight path.'\""
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 74,
+      "arabic": "يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "translation": {
+        "de": "Er zeichnet mit Seinem Erbarmen aus, wen Er will, und Allah besitzt große Huld.",
+        "en": "He selects for His mercy whom He wills. And Allāh is the possessor of great bounty."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 101,
+      "arabic": "وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَـٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "translation": {
+        "de": "Wie aber könnt ihr (wieder) ungläubig werden, wo euch doch Allahs Zeichen verlesen werden und unter euch Sein Gesandter ist? Doch wer an Allah festhält, der wird gewiß auf einen geraden Weg geleitet.",
+        "en": "And how could you disbelieve while to you are being recited the verses of Allāh and among you is His Messenger? And whoever holds firmly to Allāh has [indeed] been guided to a straight path."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 132,
+      "arabic": "وَأَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "translation": {
+        "de": "Und gehorcht Allah und dem Gesandten, auf daß ihr Erbarmen finden möget!",
+        "en": "And obey Allāh and the Messenger that you may obtain mercy."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 133,
+      "arabic": "۞ وَسَارِعُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ",
+      "translation": {
+        "de": "Und beeilt euch um Vergebung von eurem Herrn und (um) einen (Paradies)garten, dessen Breite (wie) die Himmel und die Erde ist. Er ist für die Gottesfürchtigen bereitet,",
+        "en": "And hasten to forgiveness from your Lord and a garden [i.e., Paradise] as wide as the heavens and earth, prepared for the righteous"
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 134,
+      "arabic": "ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "translation": {
+        "de": "die in Freude und Leid ausgeben und ihren Grimm zurückhalten und den Menschen verzeihen. Und Allah liebt die Gutes Tuenden",
+        "en": "Who spend [in the cause of Allāh] during ease and hardship and who restrain anger and who pardon the people - and Allāh loves the doers of good;"
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 135,
+      "arabic": "وَٱلَّذِينَ إِذَا فَعَلُوا۟ فَـٰحِشَةً أَوْ ظَلَمُوٓا۟ أَنفُسَهُمْ ذَكَرُوا۟ ٱللَّهَ فَٱسْتَغْفَرُوا۟ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمْ يُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمْ يَعْلَمُونَ",
+      "translation": {
+        "de": "und diejenigen, die, wenn sie eine Abscheulichkeit begangen oder sich selbst Unrecht zugefügt haben, Allahs gedenken und dann für ihre Sünden um Vergebung bitten - und wer sollte die Sünden vergeben außer Allah? - und (die) nicht auf dem beharren, was sie getan haben, wo sie doch wissen.",
+        "en": "And those who, when they commit an immorality or wrong themselves [by transgression], remember Allāh and seek forgiveness for their sins - and who can forgive sins except Allāh? - and [who] do not persist in what they have done while they know."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 138,
+      "arabic": "هَـٰذَا بَيَانٌ لِّلنَّاسِ وَهُدًى وَمَوْعِظَةٌ لِّلْمُتَّقِينَ",
+      "translation": {
+        "de": "Dies ist eine klare Darlegung für die Menschen und eine Rechtleitung und Ermahnung für die Gottesfürchtigen.",
+        "en": "This [Qur’ān] is a clear statement to [all] the people and a guidance and instruction for those conscious of Allāh."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 139,
+      "arabic": "وَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟ وَأَنتُمُ ٱلْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+      "translation": {
+        "de": "Und werdet nicht schwach noch seid traurig, wo ihr doch die Oberhand haben werdet, wenn ihr gläubig seid.",
+        "en": "So do not weaken and do not grieve, and you will be superior if you are [true] believers."
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 145,
+      "arabic": "وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَـٰبًا مُّؤَجَّلًا ۗ وَمَن يُرِدْ ثَوَابَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَن يُرِدْ ثَوَابَ ٱلْـَٔاخِرَةِ نُؤْتِهِۦ مِنْهَا ۚ وَسَنَجْزِى ٱلشَّـٰكِرِينَ",
+      "translation": {
+        "de": "Keiner Seele ist es möglich zu sterben, außer mit Allahs Erlaubnis (und) nach einer befristeten Vorbestimmung. Wer die Belohnung des Diesseits will, dem geben Wir (etwas) von ihm; und wer die Belohnung des Jenseits will, dem geben Wir (etwas) von ihm. Und Wir werden (es) den Dankbaren vergelten.",
+        "en": "And it is not [possible] for one to die except by permission of Allāh at a decree determined. And whoever desires the reward of this world - We will give him thereof; and whoever desires the reward of the Hereafter - We will give him thereof. And We will reward the grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 146,
+      "arabic": "وَكَأَيِّن مِّن نَّبِىٍّ قَـٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّـٰبِرِينَ",
+      "translation": {
+        "de": "Und mit wie vielen Propheten zusammen kämpften zahlreiche Bekenner des Herrn! Doch sie gaben nicht auf ob dessen, was sie auf Allahs Weg traf, noch wurden sie schwach, noch unterwarfen sie sich. Und Allah liebt die Standhaften.",
+        "en": "And how many a prophet [fought in battle and] with him fought many religious scholars. But they never lost assurance due to what afflicted them in the cause of Allāh, nor did they weaken or submit. And Allāh loves the steadfast."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 159,
+      "arabic": "فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ",
+      "translation": {
+        "de": "Durch Erbarmen von Allah bist du mild zu ihnen gewesen; wärst du aber schroff und hartherzig, so würden sie wahrlich rings um dich auseinanderlaufen. So verzeihe ihnen, bitte für sie um Vergebung und ziehe sie in den Angelegenheiten zu Rate. Und wenn du dich entschlossen hast, dann verlasse dich auf Allah! Gewiß, Allah liebt die sich (auf Ihn) Verlassenden.",
+        "en": "So by mercy from Allāh, [O Muḥammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allāh. Indeed, Allāh loves those who rely [upon Him]."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 160,
+      "arabic": "إِن يَنصُرْكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِن يَخْذُلْكُمْ فَمَن ذَا ٱلَّذِى يَنصُرُكُم مِّنۢ بَعْدِهِۦ ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "translation": {
+        "de": "Wenn Allah euch zum Sieg verhilft, so kann euch keiner besiegen. Doch wenn Er euch im Stich läßt, wer ist es denn, der euch dann, nach Ihm, noch helfen könnte? Und auf Allah sollen sich die Gläubigen verlassen.",
+        "en": "If Allāh should aid you, no one can overcome you; but if He should forsake you, who is there that can aid you after Him? And upon Allāh let the believers rely."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 173,
+      "arabic": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+      "translation": {
+        "de": "Diejenigen, zu denen die Menschen sagten: „Die Menschen haben (sich) bereits gegen euch versammelt; darum fürchtet sie! - Doch da mehrte das (nur) ihren Glauben, und sie sagten: „Unsere Genüge ist Allah, und wie trefflich ist der Sachwalter!",
+        "en": "Those to whom people [i.e., hypocrites] said, \"Indeed, the people have gathered against you, so fear them.\" But it [merely] increased them in faith, and they said, \"Sufficient for us is Allāh, and [He is] the best Disposer of affairs.\""
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 186,
+      "arabic": "۞ لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًى كَثِيرًا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "translation": {
+        "de": "Ihr werdet ganz gewiß in eurem Besitz und in eurer eigenen Person geprüft werden, und ihr werdet ganz gewiß von denjenigen, denen die Schrift vor euch gegeben wurde, und denen, die (Allah etwas) beigesellen, viel Beleidigendes zu hören bekommen. Doch wenn ihr standhaft und gottesfürchtig seid, so gehört dies gewiß zur Entschlossenheit (in der Handhabung) der Angelegenheiten.",
+        "en": "You will surely be tested in your possessions and in yourselves. And you will surely hear from those who were given the Scripture before you and from those who associate others with Allāh much abuse. But if you are patient and fear Allāh - indeed, that is of the matters [worthy] of resolve."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 191,
+      "arabic": "ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَـٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَـٰطِلًا سُبْحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ",
+      "translation": {
+        "de": "die Allahs stehend, sitzend und auf der Seite (liegend) gedenken und über die Schöpfung der Himmel und der Erde nachdenken: „Unser Herr, Du hast (all) dies nicht umsonst erschaffen. Preis sei Dir! Bewahre uns vor der Strafe des (Höllen)feuers.",
+        "en": "Who remember Allāh while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], \"Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 193,
+      "arabic": "رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ",
+      "translation": {
+        "de": "Unser Herr, gewiß, wir hörten einen Rufer, der zum Glauben aufrief: ,Glaubt an euren Herrn.’ Da glaubten wir. Unser Herr, vergib uns unsere Sünden, tilge unsere bösen Taten und berufe uns ab unter den Gütigen.",
+        "en": "Our Lord, indeed we have heard a caller [i.e., Prophet Muḥammad (ﷺ)] calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die among the righteous."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 3,
+      "ayah": 200,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "translation": {
+        "de": "O die ihr glaubt, geduldet euch, haltet standhaft aus, seid kampfbereit und fürchtet Allah, auf daß es euch wohl ergehen möge!",
+        "en": "O you who have believed, persevere and endure and remain stationed and fear Allāh that you may be successful."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 4,
+      "ayah": 17,
+      "arabic": "إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَـٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَـٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "translation": {
+        "de": "Die Annahme der Reue obliegt Allah nur für diejenigen, die in Unwissenheit Böses tun und hierauf beizeiten bereuen. Deren Reue nimmt Allah an. Und Allah ist Allwissend und Allweise.",
+        "en": "The repentance accepted by Allāh is only for those who do wrong in ignorance [or carelessness] and then repent soon [after]. It is those to whom Allāh will turn in forgiveness, and Allāh is ever Knowing and Wise."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 4,
+      "ayah": 27,
+      "arabic": "وَٱللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيْكُمْ وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَٰتِ أَن تَمِيلُوا۟ مَيْلًا عَظِيمًا",
+      "translation": {
+        "de": "Und Allah will eure Reue annehmen; diejenigen aber, die den Begierden folgen, wollen, daß ihr (vom rechten Weg) völlig abweicht.",
+        "en": "Allāh wants to accept your repentance, but those who follow [their] passions want you to digress [into] a great deviation."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 4,
+      "ayah": 45,
+      "arabic": "وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ ۚ وَكَفَىٰ بِٱللَّهِ وَلِيًّا وَكَفَىٰ بِٱللَّهِ نَصِيرًا",
+      "translation": {
+        "de": "Allah weiß sehr wohl über eure Feinde Bescheid, und Allah genügt als Schutzherr, und Allah genügt als Helfer.",
+        "en": "And Allāh is most knowing of your enemies; and sufficient is Allāh as an ally, and sufficient is Allāh as a helper."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 4,
+      "ayah": 81,
+      "arabic": "وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا۟ مِنْ عِندِكَ بَيَّتَ طَآئِفَةٌ مِّنْهُمْ غَيْرَ ٱلَّذِى تَقُولُ ۖ وَٱللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ ۖ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "translation": {
+        "de": "Und sie sagen: „Gehorsam. Wenn sie aber von dir weggehen, heckt ein Teil von ihnen etwas anderes aus, als was du sagst. Aber Allah schreibt auf, was sie aushecken. So wende dich von ihnen ab und verlasse dich auf Allah. Allah genügt als Sachwalter.",
+        "en": "And they say, \"[We pledge] obedience.\" But when they leave you, a group of them spend the night determining to do other than what you say. But Allāh records what they plan by night. So leave them alone and rely upon Allāh. And sufficient is Allāh as Disposer of affairs."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 4,
+      "ayah": 106,
+      "arabic": "وَٱسْتَغْفِرِ ٱللَّهَ ۖ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "translation": {
+        "de": "Und bitte Allah um Vergebung. Gewiß, Allah ist Allvergebend und Barmherzig.",
+        "en": "And seek forgiveness of Allāh. Indeed, Allāh is ever Forgiving and Merciful."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 4,
+      "ayah": 110,
+      "arabic": "وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا",
+      "translation": {
+        "de": "Und wer etwas Böses tut oder sich selbst Unrecht zufügt und hierauf Allah um Vergebung bittet, wird Allah Allvergebend und Barmherzig finden.",
+        "en": "And whoever does a wrong or wrongs himself but then seeks forgiveness of Allāh will find Allāh Forgiving and Merciful."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 4,
+      "ayah": 132,
+      "arabic": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "translation": {
+        "de": "Allah gehört (alles), was in den Himmeln und was auf der Erde ist, und Allah genügt als Sachwalter.",
+        "en": "And to Allāh belongs whatever is in the heavens and whatever is on the earth. And sufficient is Allāh as Disposer of affairs."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 4,
+      "ayah": 147,
+      "arabic": "مَّا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَءَامَنتُمْ ۚ وَكَانَ ٱللَّهُ شَاكِرًا عَلِيمًا",
+      "translation": {
+        "de": "Warum sollte Allah euch strafen, wenn ihr dankbar und gläubig seid? Allah ist Dankbar und Allwissend.",
+        "en": "What would Allāh do with [i.e., gain from] your punishment if you are grateful and believe? And ever is Allāh Appreciative and Knowing."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 4,
+      "ayah": 149,
+      "arabic": "إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّا قَدِيرًا",
+      "translation": {
+        "de": "Ob ihr etwas Gutes offenlegt, oder es verbergt, oder etwas Böses verzeiht - gewiß, Allah ist Allverzeihend und Allmächtig.",
+        "en": "If [instead] you show [some] good or conceal it or pardon an offense - indeed, Allāh is ever Pardoning and Competent."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 4,
+      "ayah": 174,
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُم بُرْهَـٰنٌ مِّن رَّبِّكُمْ وَأَنزَلْنَآ إِلَيْكُمْ نُورًا مُّبِينًا",
+      "translation": {
+        "de": "O ihr Menschen, zu euch ist nunmehr ein Beweis von eurem Herrn gekommen, und Wir haben zu euch ein deutliches Licht hinabgesandt.",
+        "en": "O mankind, there has come to you a conclusive proof from your Lord, and We have sent down to you a clear light."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 4,
+      "ayah": 175,
+      "arabic": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍ مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًا مُّسْتَقِيمًا",
+      "translation": {
+        "de": "Was nun diejenigen angeht, die an Allah glauben und an Ihm festhalten, so wird Er sie in Barmherzigkeit von Ihm und Huld eingehen lassen und sie zu Sich auf einem geraden Weg leiten.",
+        "en": "So those who believe in Allāh and hold fast to Him - He will admit them to mercy from Himself and bounty and guide them to Himself on a straight path."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 5,
+      "ayah": 9,
+      "arabic": "وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ۙ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+      "translation": {
+        "de": "Allah hat denen, die glauben und rechtschaffene Werke tun, versprochen, daß es für sie Vergebung und großartigen Lohn geben wird.",
+        "en": "Allāh has promised those who believe and do righteous deeds [that] for them there is forgiveness and great reward."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 5,
+      "ayah": 16,
+      "arabic": "يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَـٰمِ وَيُخْرِجُهُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ بِإِذْنِهِۦ وَيَهْدِيهِمْ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "translation": {
+        "de": "mit dem Allah diejenigen, die Seinem Wohlgefallen folgen, die Wege des Heils leitet und sie aus den Finsternissen hinaus mit Seiner Erlaubnis ins Licht bringt und sie zu einem geraden Weg leitet.",
+        "en": "By which Allāh guides those who pursue His pleasure to the ways of peace and brings them out from darknesses into the light, by His permission, and guides them to a straight path."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 5,
+      "ayah": 39,
+      "arabic": "فَمَن تَابَ مِنۢ بَعْدِ ظُلْمِهِۦ وَأَصْلَحَ فَإِنَّ ٱللَّهَ يَتُوبُ عَلَيْهِ ۗ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "translation": {
+        "de": "Wer aber bereut, nachdem er Unrecht getan hat, und es wieder gutmacht, so nimmt Allah seine Reue gewiß an. Allah ist Allvergebend und Barmherzig.",
+        "en": "But whoever repents after his wrongdoing and reforms, indeed, Allāh will turn to him in forgiveness. Indeed, Allāh is Forgiving and Merciful."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 5,
+      "ayah": 74,
+      "arabic": "أَفَلَا يَتُوبُونَ إِلَى ٱللَّهِ وَيَسْتَغْفِرُونَهُۥ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "translation": {
+        "de": "Wenden sie sich denn nicht in Reue zu Allah und bitten Ihn um Vergebung? Allah ist Allvergebend und Barmherzig.",
+        "en": "So will they not repent to Allāh and seek His forgiveness? And Allāh is Forgiving and Merciful."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 5,
+      "ayah": 105,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "translation": {
+        "de": "O die ihr glaubt, wacht über euch selbst! Wer abirrt, kann euch keinen Schaden zufügen, wenn ihr rechtgeleitet seid. Zu Allah wird eure aller Rückkehr sein, und dann wird Er kundtun, was ihr zu tun pflegtet.",
+        "en": "O you who have believed, upon you is [responsibility for] yourselves. Those who have gone astray will not harm you when you have been guided. To Allāh is your return all together; then He will inform you of what you used to do."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 6,
+      "ayah": 12,
+      "arabic": "قُل لِّمَن مَّا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ قُل لِّلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۚ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+      "translation": {
+        "de": "Sag: Wem gehört, was in den Himmeln und auf der Erde ist? Sag: Allah. Er hat Sich Selbst Barmherzigkeit vorgeschrieben. Er wird euch ganz gewiß zum Tag der Auferstehung versammeln, an dem es keinen Zweifel gibt. (Schaut; wie das Ende) derjenigen (war), die ihre Seelen verloren haben, denn sie glaubten nicht.",
+        "en": "Say, \"To whom belongs whatever is in the heavens and earth?\" Say, \"To Allāh.\" He has decreed upon Himself mercy. He will surely assemble you for the Day of Resurrection, about which there is no doubt. Those who will lose themselves [that Day] do not believe."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 6,
+      "ayah": 54,
+      "arabic": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤْمِنُونَ بِـَٔايَـٰتِنَا فَقُلْ سَلَـٰمٌ عَلَيْكُمْ ۖ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۖ أَنَّهُۥ مَنْ عَمِلَ مِنكُمْ سُوٓءًۢا بِجَهَـٰلَةٍ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ فَأَنَّهُۥ غَفُورٌ رَّحِيمٌ",
+      "translation": {
+        "de": "Und wenn diejenigen, die an Unsere Zeichen glauben, zu dir kommen, dann sag: Friede sei auf euch! Euer Herr hat Sich Selbst Barmherzigkeit vorgeschrieben: Wer von euch in Unwissenheit Böses tut, aber danach dann bereut und (es) wieder gutmacht, so ist Er Allvergebend und Barmherzig.",
+        "en": "And when those come to you who believe in Our verses, say, \"Peace be upon you. Your Lord has decreed upon Himself mercy: that any of you who does wrong out of ignorance and then repents after that and corrects himself - indeed, He is Forgiving and Merciful.\""
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 6,
+      "ayah": 82,
+      "arabic": "ٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يَلْبِسُوٓا۟ إِيمَـٰنَهُم بِظُلْمٍ أُو۟لَـٰٓئِكَ لَهُمُ ٱلْأَمْنُ وَهُم مُّهْتَدُونَ",
+      "translation": {
+        "de": "Diejenigen, die glauben und ihren Glauben nicht mit Ungerechtigkeit verdecken, die haben (das Recht auf) Sicherheit, und sie sind rechtgeleitet.",
+        "en": "They who believe and do not mix their belief with injustice - those will have security, and they are [rightly] guided."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 6,
+      "ayah": 122,
+      "arabic": "أَوَمَن كَانَ مَيْتًا فَأَحْيَيْنَـٰهُ وَجَعَلْنَا لَهُۥ نُورًا يَمْشِى بِهِۦ فِى ٱلنَّاسِ كَمَن مَّثَلُهُۥ فِى ٱلظُّلُمَـٰتِ لَيْسَ بِخَارِجٍ مِّنْهَا ۚ كَذَٰلِكَ زُيِّنَ لِلْكَـٰفِرِينَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "translation": {
+        "de": "Ist denn der, der tot war, und den Wir dann lebendig gemacht und dem Wir ein Licht gegeben haben, worin er unter den Menschen geht, wie einer, dessen Gleichnis das jemandes ist, der sich in Finsternissen befindet, aus denen er nicht herauskommen kann? So ist den Ungläubigen ausgeschmückt, was sie zu tun pflegten.",
+        "en": "And is one who was dead and We gave him life and made for him light by which to walk among the people like one who is in darkness, never to emerge therefrom? Thus it has been made pleasing to the disbelievers that which they were doing."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 6,
+      "ayah": 125,
+      "arabic": "فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ",
+      "translation": {
+        "de": "Wen Allah rechtleiten will, dem tut Er die Brust auf für den Islam. Und wen Er in die Irre gehen lassen will, dem macht Er die Brust eng und bedrängt, so als ob er in den Himmel hochsteigen sollte. So legt Allah den Greuel auf diejenigen, die nicht glauben.",
+        "en": "So whoever Allāh wants to guide - He expands his breast to [contain] Islām; and whoever He wants to send astray - He makes his breast tight and constricted as though he were climbing into the sky. Thus does Allāh place defilement upon those who do not believe."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 6,
+      "ayah": 155,
+      "arabic": "وَهَـٰذَا كِتَـٰبٌ أَنزَلْنَـٰهُ مُبَارَكٌ فَٱتَّبِعُوهُ وَٱتَّقُوا۟ لَعَلَّكُمْ تُرْحَمُونَ",
+      "translation": {
+        "de": "Und dies ist ein Buch, das Wir (als Offenbarung) hinabgesandt haben, ein gesegnetes (Buch). So folgt ihm und seid gottesfürchtig, auf daß ihr Erbarmen finden möget!",
+        "en": "And this [Qur’ān] is a Book We have revealed [which is] blessed, so follow it and fear Allāh that you may receive mercy."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 6,
+      "ayah": 161,
+      "arabic": "قُلْ إِنَّنِى هَدَىٰنِى رَبِّىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ دِينًا قِيَمًا مِّلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+      "translation": {
+        "de": "Sag: Gewiß, mich hat mein Herr zu einem geraden Weg geleitet, einer richtigen Religion, dem Glaubensbekenntnis Ibrahims, als Anhänger des rechten Glaubens, und er war keiner der Götzendiener.",
+        "en": "Say, \"Indeed, my Lord has guided me to a straight path - a correct religion - the way of Abraham, inclining toward truth. And he was not among those who associated others with Allāh.\""
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 6,
+      "ayah": 162,
+      "arabic": "قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "translation": {
+        "de": "Sag: Gewiß, mein Gebet und mein (Schlacht)opfer, mein Leben und mein Sterben gehören Allah, dem Herrn der Weltenbewohner.",
+        "en": "Say, \"Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allāh, Lord of the worlds."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 10,
+      "arabic": "وَلَقَدْ مَكَّنَّـٰكُمْ فِى ٱلْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَـٰيِشَ ۗ قَلِيلًا مَّا تَشْكُرُونَ",
+      "translation": {
+        "de": "Und Wir haben euch ja auf der Erde eine feste Stellung verliehen, und Wir haben für euch auf ihr (Möglichkeiten für den) Lebensunterhalt geschaffen. Wie wenig ihr dankbar seid!",
+        "en": "And We have certainly established you upon the earth and made for you therein ways of livelihood. Little are you grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 23,
+      "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+      "translation": {
+        "de": "Sie sagten: Unser Herr, wir haben uns selbst Unrecht zugefügt. Wenn Du uns nicht vergibst und Dich unser erbarmst, werden wir ganz gewiß zu den Verlorenen gehören.",
+        "en": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\""
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 29,
+      "arabic": "قُلْ أَمَرَ رَبِّى بِٱلْقِسْطِ ۖ وَأَقِيمُوا۟ وُجُوهَكُمْ عِندَ كُلِّ مَسْجِدٍ وَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۚ كَمَا بَدَأَكُمْ تَعُودُونَ",
+      "translation": {
+        "de": "Sag: Mein Herr hat Gerechtigkeit geboten, und ihr sollt euer Gesicht bei jeder Gebetsstätte aufrichten und Ihn anrufen, (wobei ihr) Ihm gegenüber aufrichtig in der Religion (sein sollt). So wie Er euch anfangs gebracht hat, werdet ihr zurückkehren.",
+        "en": "Say, [O Muḥammad], \"My Lord has ordered justice and that you direct yourselves [to the Qiblah] at every place [or time] of prostration, and invoke Him, sincere to Him in religion.\" Just as He originated you, you will return [to life] -"
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 55,
+      "arabic": "ٱدْعُوا۟ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+      "translation": {
+        "de": "Ruft euren Herrn in Unterwürfigkeit flehend und im Verborgenen an. Gewiß, Er liebt nicht die Übertreter.",
+        "en": "Call upon your Lord in humility and privately; indeed, He does not like transgressors."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 56,
+      "arabic": "وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَـٰحِهَا وَٱدْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ ٱللَّهِ قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ",
+      "translation": {
+        "de": "Und stiftet auf der Erde nicht Unheil, nachdem sie in Ordnung gebracht worden ist! Und ruft Ihn in Furcht und Begehren an. Gewiß, die Barmherzigkeit Allahs ist den Gutes Tuenden nahe.",
+        "en": "And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allāh is near to the doers of good."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 126,
+      "arabic": "وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِـَٔايَـٰتِ رَبِّنَا لَمَّا جَآءَتْنَا ۚ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+      "translation": {
+        "de": "Du grollst uns ja nur (darum), daß wir an die Zeichen unseres Herrn glaubten, als sie zu uns kamen. Unser Herr, überschütte uns mit Standhaftigkeit und berufe uns ab als (Dir) Ergebene!",
+        "en": "And you do not resent us except because we believed in the signs of our Lord when they came to us. Our Lord, pour upon us patience and let us die as Muslims [in submission to You].\""
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 128,
+      "arabic": "قَالَ مُوسَىٰ لِقَوْمِهِ ٱسْتَعِينُوا۟ بِٱللَّهِ وَٱصْبِرُوٓا۟ ۖ إِنَّ ٱلْأَرْضَ لِلَّهِ يُورِثُهَا مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَٱلْعَـٰقِبَةُ لِلْمُتَّقِينَ",
+      "translation": {
+        "de": "Musa sagte zu seinem Volk: Sucht Hilfe bei Allah, und seid standhaft! Gewiß, die Erde gehört Allah; Er gibt sie zum Erbe, wem von Seinen Dienern Er will. Und das (gute) Ende gehört den Gottesfürchtigen.",
+        "en": "Said Moses to his people, \"Seek help through Allāh and be patient. Indeed, the earth belongs to Allāh. He causes to inherit it whom He wills of His servants. And the [best] outcome is for the righteous.\""
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 144,
+      "arabic": "قَالَ يَـٰمُوسَىٰٓ إِنِّى ٱصْطَفَيْتُكَ عَلَى ٱلنَّاسِ بِرِسَـٰلَـٰتِى وَبِكَلَـٰمِى فَخُذْ مَآ ءَاتَيْتُكَ وَكُن مِّنَ ٱلشَّـٰكِرِينَ",
+      "translation": {
+        "de": "Er sagte: O Musa, Ich habe dich durch Meine Botschaften und Mein Gespräch (mit dir) vor den Menschen auserwählt! So nimm, was Ich dir gegeben habe, und gehöre zu den Dankbaren!",
+        "en": "[Allāh] said, \"O Moses, I have chosen you over the people with My messages and My words [to you]. So take what I have given you and be among the grateful.\""
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 151,
+      "arabic": "قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ ۖ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+      "translation": {
+        "de": "Er (Musa) sagte: Mein Herr, vergib mir und meinem Bruder, und lasse uns in Deine Barmherzigkeit eingehen. Du bist ja der Barmherzigste der Barmherzigen.",
+        "en": "[Moses] said, \"My Lord, forgive me and my brother and admit us into Your mercy, for You are the most merciful of the merciful.\""
+      },
+      "categories": [
+        "mercy",
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 153,
+      "arabic": "وَٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ ثُمَّ تَابُوا۟ مِنۢ بَعْدِهَا وَءَامَنُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ",
+      "translation": {
+        "de": "Aber diejenigen, die böse Taten begehen und danach bereuen und glauben-, gewiß, dein Herr ist danach wahrlich Allvergebend und Barmherzig.",
+        "en": "But those who committed misdeeds and then repented after them and believed - indeed your Lord, thereafter, is Forgiving and Merciful."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 156,
+      "arabic": "۞ وَٱكْتُبْ لَنَا فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ ۖ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ ۚ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَـٰتِنَا يُؤْمِنُونَ",
+      "translation": {
+        "de": "Und bestimme für uns in diesem Diesseits Gutes und auch im Jenseits! Gewiß, wir haben zu Dir zurückgefunden. Er sagte: Mit Meiner Strafe treffe Ich, wen Ich will, aber Meine Barmherzigkeit umfaßt alles. Ich werde sie für die bestimmen, die gottesfürchtig sind und die Abgabe entrichten und die an Unsere Zeichen glauben,",
+        "en": "And decree for us in this world [that which is] good and [also] in the Hereafter; indeed, we have turned back to You.\" [Allāh] said, \"My punishment - I afflict with it whom I will, but My mercy encompasses all things.\" So I will decree it [especially] for those who fear Me and give zakāh and those who believe in Our verses-"
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 178,
+      "arabic": "مَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِى ۖ وَمَن يُضْلِلْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+      "translation": {
+        "de": "Wen Allah rechtleitet, der ist (in Wahrheit) rechtgeleitet. Wen Er aber in die Irre gehen läßt, das sind die Verlierer.",
+        "en": "Whoever Allāh guides - he is the [rightly] guided; and whoever He sends astray - it is those who are the losers."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 205,
+      "arabic": "وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ وَٱلْـَٔاصَالِ وَلَا تَكُن مِّنَ ٱلْغَـٰفِلِينَ",
+      "translation": {
+        "de": "Und gedenke deines Herrn in deiner Seele in Unterwürfigkeit flehend und in Furcht und mit leiser Stimme, am Morgen und am Abend. Und gehöre nicht zu den Unachtsamen!",
+        "en": "And remember your Lord within yourself in humility and in fear without being apparent in speech - in the mornings and the evenings. And do not be among the heedless."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 7,
+      "ayah": 206,
+      "arabic": "إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩",
+      "translation": {
+        "de": "Diejenigen, die bei deinem Herrn sind, sind nicht zu hochmütig dazu, Ihm zu dienen; sie preisen Ihn und werfen sich vor Ihm nieder.",
+        "en": "Indeed, those who are near your Lord [i.e., the angels] are not prevented by arrogance from His worship, and they exalt Him, and to Him they prostrate."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 8,
+      "ayah": 2,
+      "arabic": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ ءَايَـٰتُهُۥ زَادَتْهُمْ إِيمَـٰنًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "translation": {
+        "de": "Die (wahren) Gläubigen sind ja diejenigen, deren Herzen sich vor Ehrfurcht regen, wenn Allahs gedacht wird, und die, wenn ihnen Seine Zeichen verlesen werden, es ihren Glauben mehrt, und die sich auf ihren Herrn verlassen,",
+        "en": "The believers are only those who, when Allāh is mentioned, their hearts become fearful, and when His verses are recited to them, it increases them in faith; and upon their Lord they rely -"
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 8,
+      "ayah": 29,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَتَّقُوا۟ ٱللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا وَيُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَيَغْفِرْ لَكُمْ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "translation": {
+        "de": "O die ihr glaubt, wenn ihr Allah fürchtet, bestimmt Er euch eine Unterscheidung(snorm), tilgt euch eure bösen Taten und vergibt euch. Und Allah besitzt große Huld.",
+        "en": "O you who have believed, if you fear Allāh, He will grant you a criterion and will remove from you your misdeeds and forgive you. And Allāh is the possessor of great bounty."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 8,
+      "ayah": 46,
+      "arabic": "وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَـٰزَعُوا۟ فَتَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ ۖ وَٱصْبِرُوٓا۟ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ",
+      "translation": {
+        "de": "Und gehorcht Allah und Seinem Gesandten, und streitet nicht miteinander, sonst würdet ihr den Mut verlieren, und eure Kraft würde vergehen! Und seid standhaft! Gewiß, Allah ist mit den Standhaften.",
+        "en": "And obey Allāh and His Messenger, and do not dispute and [thus] lose courage and [then] your strength would depart; and be patient. Indeed, Allāh is with the patient."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 8,
+      "ayah": 64,
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ حَسْبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ",
+      "translation": {
+        "de": "O Prophet, deine Genüge ist Allah und (auch) derer von den Gläubigen, die dir folgen.",
+        "en": "O Prophet, sufficient for you is Allāh and for whoever follows you of the believers."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 9,
+      "ayah": 51,
+      "arabic": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "translation": {
+        "de": "Sag: Uns wird nur das treffen, was Allah für uns bestimmt hat. Er ist unser Schutzherr. Auf Allah sollen sich die Gläubigen verlassen.",
+        "en": "Say, \"Never will we be struck except by what Allāh has decreed for us; He is our protector.\" And upon Allāh let the believers rely."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 9,
+      "ayah": 104,
+      "arabic": "أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَـٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "translation": {
+        "de": "Wissen sie denn nicht, daß Allah es ist, Der die Reue von Seinen Dienern annimmt und die Almosen nimmt, und daß Allah der Reue-Annehmende und Barmherzige ist?",
+        "en": "Do they not know that it is Allāh who accepts repentance from His servants and receives charities and that it is Allāh who is the Accepting of Repentance, the Merciful?"
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 9,
+      "ayah": 129,
+      "arabic": "فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+      "translation": {
+        "de": "Wenn sie sich aber abkehren, dann sag: Meine Genüge ist Allah. Es gibt keinen Gott außer Ihm. Auf Ihn verlasse ich mich, und Er ist der Herr des gewaltigen Thrones.",
+        "en": "But if they turn away, [O Muḥammad], say, \"Sufficient for me is Allāh; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.\""
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 10,
+      "ayah": 9,
+      "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ يَهْدِيهِمْ رَبُّهُم بِإِيمَـٰنِهِمْ ۖ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَـٰرُ فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+      "translation": {
+        "de": "Diejenigen aber, die glauben und rechtschaffene Werke tun, leitet ihr Herr wegen ihres Glaubens recht. Unter ihnen werden Flüsse strömen in den Gärten der Wonne.",
+        "en": "Indeed, those who have believed and done righteous deeds - their Lord will guide them because of their faith. Beneath them rivers will flow in the Gardens of Pleasure."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 10,
+      "ayah": 25,
+      "arabic": "وَٱللَّهُ يَدْعُوٓا۟ إِلَىٰ دَارِ ٱلسَّلَـٰمِ وَيَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "translation": {
+        "de": "Allah lädt zur Wohnstätte des Friedens ein und leitet, wen Er will, zu einem geraden Weg.",
+        "en": "And Allāh invites to the Home of Peace [i.e., Paradise] and guides whom He wills to a straight path."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 10,
+      "ayah": 57,
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَآءٌ لِّمَا فِى ٱلصُّدُورِ وَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+      "translation": {
+        "de": "O ihr Menschen, zu euch ist nunmehr eine Ermahnung von eurem Herrn gekommen und eine Heilung für das, was in den Brüsten ist, eine Rechtleitung und Barmherzigkeit für die Gläubigen.",
+        "en": "O mankind, there has come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers."
+      },
+      "categories": [
+        "mercy",
+        "guidance"
+      ]
+    },
+    {
+      "surah": 10,
+      "ayah": 58,
+      "arabic": "قُلْ بِفَضْلِ ٱللَّهِ وَبِرَحْمَتِهِۦ فَبِذَٰلِكَ فَلْيَفْرَحُوا۟ هُوَ خَيْرٌ مِّمَّا يَجْمَعُونَ",
+      "translation": {
+        "de": "Sag: Über die Huld Allahs und über Seine Barmherzigkeit, ja darüber sollen sie froh sein. Das ist besser als das, was sie zusammentragen.",
+        "en": "Say, \"In the bounty of Allāh and in His mercy - in that let them rejoice; it is better than what they accumulate.\""
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 10,
+      "ayah": 84,
+      "arabic": "وَقَالَ مُوسَىٰ يَـٰقَوْمِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ فَعَلَيْهِ تَوَكَّلُوٓا۟ إِن كُنتُم مُّسْلِمِينَ",
+      "translation": {
+        "de": "Und Musa sagte: O mein Volk, wenn ihr wirklich an Allah glaubt, dann verlaßt euch auf Ihn, wenn ihr (Ihm) Ergebene seid.",
+        "en": "And Moses said, \"O my people, if you have believed in Allāh, then rely upon Him, if you should be Muslims [i.e., submitting to Him].\""
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 10,
+      "ayah": 108,
+      "arabic": "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَمَآ أَنَا۠ عَلَيْكُم بِوَكِيلٍ",
+      "translation": {
+        "de": "Sag: O ihr Menschen! Zu euch ist nunmehr die Wahrheit von eurem Herrn gekommen. Wer sich rechtleiten läßt, der ist nur zu seinem eigenen Vorteil rechtgeleitet. Und wer irregeht, der geht nur zu seinem Nachteil irre. Und ich bin nicht euer Sachwalter.",
+        "en": "Say, \"O mankind, the truth has come to you from your Lord, so whoever is guided is only guided for [the benefit of] his soul, and whoever goes astray only goes astray [in violation] against it. And I am not over you a manager.\""
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 10,
+      "ayah": 109,
+      "arabic": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ وَٱصْبِرْ حَتَّىٰ يَحْكُمَ ٱللَّهُ ۚ وَهُوَ خَيْرُ ٱلْحَـٰكِمِينَ",
+      "translation": {
+        "de": "Und folge dem, was dir (als Offenbarung) eingegeben wird, und gedulde dich, bis Allah richtet! Er ist der Beste derer, die richten.",
+        "en": "And follow what is revealed to you, [O Muḥammad], and be patient until Allāh will judge. And He is the best of judges."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 11,
+      "ayah": 3,
+      "arabic": "وَأَنِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُمَتِّعْكُم مَّتَـٰعًا حَسَنًا إِلَىٰٓ أَجَلٍ مُّسَمًّى وَيُؤْتِ كُلَّ ذِى فَضْلٍ فَضْلَهُۥ ۖ وَإِن تَوَلَّوْا۟ فَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ كَبِيرٍ",
+      "translation": {
+        "de": "und: Bittet euren Herrn um Vergebung, hierauf wendet euch Ihm in Reue zu, so wird Er euch einen schönen Nießbrauch auf eine festgesetzte Frist gewähren, und Er wird jedem, der voll Huld ist, Seine Huld gewähren. Wenn sie sich jedoch abkehren, (so sag:) Gewiß, ich fürchte für euch die Strafe eines schweren Tages.",
+        "en": "And [saying], \"Seek forgiveness of your Lord and repent to Him, [and] He will let you enjoy a good provision for a specified term and give every doer of favor his favor [i.e., reward]. But if you turn away, then indeed, I fear for you the punishment of a great Day."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 11,
+      "ayah": 52,
+      "arabic": "وَيَـٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا۟ مُجْرِمِينَ",
+      "translation": {
+        "de": "Und, o mein Volk, bittet euren Herrn um Vergebung, hierauf bereut vor Ihm, so wird Er den Regen auf euch ergiebig (herab)senden und euch (noch mehr) Kraft zu eurer Kraft hinzufügen. Und kehrt euch nicht als Übeltäter ab!",
+        "en": "And O my people, ask forgiveness of your Lord and then repent to Him. He will send [rain from] the sky upon you in showers and increase you in strength [added] to your strength. And do not turn away, [being] criminals.\""
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 11,
+      "ayah": 56,
+      "arabic": "إِنِّى تَوَكَّلْتُ عَلَى ٱللَّهِ رَبِّى وَرَبِّكُم ۚ مَّا مِن دَآبَّةٍ إِلَّا هُوَ ءَاخِذٌۢ بِنَاصِيَتِهَآ ۚ إِنَّ رَبِّى عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "translation": {
+        "de": "Ich verlasse mich auf Allah, meinen Herrn und euren Herrn. Es gibt kein Tier, das Er nicht an seiner Stirnlocke hielte. Gewiß, mein Herr befindet sich auf einem geraden Weg.",
+        "en": "Indeed, I have relied upon Allāh, my Lord and your Lord. There is no creature but that He holds it by its forelock [i.e., controls it]. Indeed, my Lord is on a path [that is] straight."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 11,
+      "ayah": 90,
+      "arabic": "وَٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى رَحِيمٌ وَدُودٌ",
+      "translation": {
+        "de": "Und bittet euren Herrn um Vergebung und hierauf bereut vor Ihm! Gewiß, mein Herr ist Barmherzig und Liebevoll.",
+        "en": "And ask forgiveness of your Lord and then repent to Him. Indeed, my Lord is Merciful and Affectionate.\""
+      },
+      "categories": [
+        "mercy",
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 11,
+      "ayah": 114,
+      "arabic": "وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ ۚ إِنَّ ٱلْحَسَنَـٰتِ يُذْهِبْنَ ٱلسَّيِّـَٔاتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ",
+      "translation": {
+        "de": "Und verrichte das Gebet an beiden Enden des Tages und in Stunden der Nacht. Die guten Taten lassen die bösen Taten vergehen. Das ist eine Ermahnung für diejenigen, die (Allahs) gedenken.",
+        "en": "And establish prayer at the two ends of the day and at the approach of the night. Indeed, good deeds do away with misdeeds. That is a reminder for those who remember."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 11,
+      "ayah": 115,
+      "arabic": "وَٱصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "translation": {
+        "de": "Und sei standhaft; denn Allah läßt den Lohn der Gutes Tuenden nicht verlorengehen.",
+        "en": "And be patient, for indeed, Allāh does not allow to be lost the reward of those who do good."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 11,
+      "ayah": 123,
+      "arabic": "وَلِلَّهِ غَيْبُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَإِلَيْهِ يُرْجَعُ ٱلْأَمْرُ كُلُّهُۥ فَٱعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ ۚ وَمَا رَبُّكَ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "translation": {
+        "de": "Und Allahs ist das Verborgene der Himmel und der Erde, und zu Ihm wird die ganze Angelegenheit zurückgebracht. So diene Ihm und verlasse dich auf Ihn. Und dein Herr ist nicht unachtsam dessen, was ihr tut.",
+        "en": "And to Allāh belong the unseen [aspects] of the heavens and the earth and to Him will be returned the matter, all of it, so worship Him and rely upon Him. And your Lord is not unaware of that which you do."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 12,
+      "ayah": 87,
+      "arabic": "يَـٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَـٰفِرُونَ",
+      "translation": {
+        "de": "O meine Kinder, geht und erkundigt euch über Yusuf und seinen Bruder. Und gebt nicht die Hoffnung auf das Erbarmen Allahs auf. Es gibt die Hoffnung auf das Erbarmen Allahs nur das ungläubige Volk auf.",
+        "en": "O my sons, go and find out about Joseph and his brother and despair not of relief from Allāh. Indeed, no one despairs of relief from Allāh except the disbelieving people.\""
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 12,
+      "ayah": 90,
+      "arabic": "قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَـٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "translation": {
+        "de": "Sie sagten: Bist du denn wirklich Yusuf? Er sagte: Ich bin Yusuf, und das ist mein Bruder. Allah hat uns eine Wohltat erwiesen. Gewiß, wer gottesfürchtig und standhaft ist -- gewiß, Allah läßt den Lohn der Gutes Tuenden nicht verlorenge hen.",
+        "en": "They said, \"Are you indeed Joseph?\" He said, \"I am Joseph, and this is my brother. Allāh has certainly favored us. Indeed, he who fears Allāh and is patient, then indeed, Allāh does not allow to be lost the reward of those who do good.\""
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 12,
+      "ayah": 92,
+      "arabic": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+      "translation": {
+        "de": "Er sagte: Keine Schelte soll heute über euch kommen. Allah vergibt euch, Er ist ja der Barmherzigste der Barmherzigen.",
+        "en": "He said, \"No blame will there be upon you today. May Allāh forgive you; and He is the most merciful of the merciful."
+      },
+      "categories": [
+        "mercy",
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 12,
+      "ayah": 98,
+      "arabic": "قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "translation": {
+        "de": "Er sagte: Ich werde meinen Herrn um Vergebung für euch bitten. Er ist ja der Allvergebende und Barmherzige.",
+        "en": "He said, \"I will ask forgiveness for you from my Lord. Indeed, it is He who is the Forgiving, the Merciful.\""
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 13,
+      "ayah": 22,
+      "arabic": "وَٱلَّذِينَ صَبَرُوا۟ ٱبْتِغَآءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَـٰهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ أُو۟لَـٰٓئِكَ لَهُمْ عُقْبَى ٱلدَّارِ",
+      "translation": {
+        "de": "und die geduldig sind im Trachten nach dem Angesicht ihres Herrn, das Gebet verrichten und von dem, womit Wir sie versorgt haben, heimlich und öffentlich ausgeben und mit dem Guten das Böse abwehren, für sie gibt es letztendlich die Wohnstätte,",
+        "en": "And those who are patient, seeking the face [i.e., acceptance] of their Lord, and establish prayer and spend from what We have provided for them secretly and publicly and prevent evil with good - those will have the good consequence of [this] home -"
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 13,
+      "ayah": 24,
+      "arabic": "سَلَـٰمٌ عَلَيْكُم بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى ٱلدَّارِ",
+      "translation": {
+        "de": "Friede sei auf euch dafür, daß ihr geduldig wart! Wie trefflich ist die endgültige Wohnstätte!",
+        "en": "\"Peace [i.e., security] be upon you for what you patiently endured. And excellent is the final home.\""
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 13,
+      "ayah": 28,
+      "arabic": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+      "translation": {
+        "de": "(Es sind) diejenigen, die glauben und deren Herzen im Gedenken Allahs Ruhe finden. Sicherlich, im Gedenken Allahs finden die Herzen Ruhe!",
+        "en": "Those who have believed and whose hearts are assured by the remembrance of Allāh. Unquestionably, by the remembrance of Allāh hearts are assured.\""
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 14,
+      "ayah": 7,
+      "arabic": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ",
+      "translation": {
+        "de": "Und als euer Herr ankündigte: ,Wenn ihr dankbar seid, werde Ich euch ganz gewiß noch mehr (Gunst) erweisen. Wenn ihr jedoch undankbar seid, dann ist meine Strafe fürwahr streng.",
+        "en": "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe.'\""
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 14,
+      "ayah": 12,
+      "arabic": "وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+      "translation": {
+        "de": "Warum sollten wir uns nicht auf Allah verlassen, wo Er uns doch unsere Wege geleitet hat? Wir werden das, was ihr uns an Leid zufügt, ganz gewiß geduldig ertragen, und auf Allah sollen sich diejenigen verlassen, die sich (überhaupt auf jemanden) verlassen (wollen).",
+        "en": "And why should we not rely upon Allāh while He has guided us to our [good] ways. And we will surely be patient against whatever harm you should cause us. And upon Allāh let those who would rely [indeed] rely.\""
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 14,
+      "ayah": 31,
+      "arabic": "قُل لِّعِبَادِىَ ٱلَّذِينَ ءَامَنُوا۟ يُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُنفِقُوا۟ مِمَّا رَزَقْنَـٰهُمْ سِرًّا وَعَلَانِيَةً مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خِلَـٰلٌ",
+      "translation": {
+        "de": "Sag zu Meinen Dienern, die glauben, sie sollen das Gebet verrichten und von dem, womit Wir sie versorgt haben, heimlich und öffentlich (als Spende) ausgeben, bevor ein Tag kommt, an dem es weder Verkaufen noch Freundschaften gibt.",
+        "en": "[O Muḥammad], tell My servants who have believed to establish prayer and spend from what We have provided them, secretly and publicly, before a Day comes in which there will be no exchange [i.e., ransom], nor any friendships."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 14,
+      "ayah": 37,
+      "arabic": "رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةً مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ",
+      "translation": {
+        "de": "Unser Herr, ich habe (einige) aus meiner Nachkommenschaft in einem Tal ohne Pflanzungen bei Deinem geschützten Haus wohnen lassen, unser Herr, damit sie das Gebet verrichten. So lasse die Herzen einiger Menschen sich ihnen zuneigen und versorge sie mit Früchten, auf daß sie dankbar sein mögen.",
+        "en": "Our Lord, I have settled some of my descendants in an uncultivated valley near Your sacred House, our Lord, that they may establish prayer. So make hearts among the people incline toward them and provide for them from the fruits that they might be grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 14,
+      "ayah": 40,
+      "arabic": "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ",
+      "translation": {
+        "de": "Mein Herr, mach, daß ich das Gebet verrichte, (ich) und (auch einige) aus meiner Nachkommenschaft. Unser Herr, und nimm mein Gebet an.",
+        "en": "My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 14,
+      "ayah": 41,
+      "arabic": "رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+      "translation": {
+        "de": "Unser Herr, vergib mir und meinen Eltern und den Gläubigen an dem Tag, da die Abrechnung stattfinden wird.",
+        "en": "Our Lord, forgive me and my parents and the believers the Day the account is established.\""
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 15,
+      "ayah": 49,
+      "arabic": "۞ نَبِّئْ عِبَادِىٓ أَنِّىٓ أَنَا ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "translation": {
+        "de": "Tue Meinen Dienern kund, daß Ich es bin, der Allvergebend und Barmherzig ist,",
+        "en": "[O Muḥammad], inform My servants that it is I who am the Forgiving, the Merciful,"
+      },
+      "categories": [
+        "mercy",
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 15,
+      "ayah": 55,
+      "arabic": "قَالُوا۟ بَشَّرْنَـٰكَ بِٱلْحَقِّ فَلَا تَكُن مِّنَ ٱلْقَـٰنِطِينَ",
+      "translation": {
+        "de": "Sie sagten: Wir verkünden (es) dir der Wahrheit entsprechend. So gehöre nicht zu denen, die die Hoffnung verlieren.",
+        "en": "They said, \"We have given you good tidings in truth, so do not be of the despairing.\""
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 15,
+      "ayah": 56,
+      "arabic": "قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ",
+      "translation": {
+        "de": "Er sagte: Wer verliert die Hoffnung auf die Barmherzigkeit seines Herrn außer den Irregehenden?",
+        "en": "He said, \"And who despairs of the mercy of his Lord except for those astray?\""
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 15,
+      "ayah": 85,
+      "arabic": "وَمَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ ۗ وَإِنَّ ٱلسَّاعَةَ لَـَٔاتِيَةٌ ۖ فَٱصْفَحِ ٱلصَّفْحَ ٱلْجَمِيلَ",
+      "translation": {
+        "de": "Wir haben die Himmel und die Erde und was dazwischen ist nur in Wahrheit erschaffen. Gewiß, die Stunde wird sicher eintreffen. So übe schöne Nachsicht.",
+        "en": "And We have not created the heavens and earth and that between them except in truth. And indeed, the Hour is coming; so forgive with gracious forgiveness."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 15,
+      "ayah": 98,
+      "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ ٱلسَّـٰجِدِينَ",
+      "translation": {
+        "de": "Aber lobpreise deinen Herrn und gehöre zu denen, die sich niederwerfen,",
+        "en": "So exalt [Allāh] with praise of your Lord and be of those who prostrate [to Him]."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 16,
+      "ayah": 14,
+      "arabic": "وَهُوَ ٱلَّذِى سَخَّرَ ٱلْبَحْرَ لِتَأْكُلُوا۟ مِنْهُ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُوا۟ مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "translation": {
+        "de": "Und Er ist es, Der euch das Meer dienstbar gemacht hat, damit ihr frisches Fleisch daraus eßt und Schmuck aus ihm hervorholt, den ihr anlegt. Und du siehst die Schiffe es durchpflügen, damit ihr nach etwas von Seiner Huld trachtet und auf daß ihr dankbar sein möget!",
+        "en": "And it is He who subjected the sea for you to eat from it tender meat and to extract from it ornaments which you wear. And you see the ships plowing through it, and [He subjected it] that you may seek of His bounty; and perhaps you will be grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 16,
+      "ayah": 18,
+      "arabic": "وَإِن تَعُدُّوا۟ نِعْمَةَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱللَّهَ لَغَفُورٌ رَّحِيمٌ",
+      "translation": {
+        "de": "Und wenn ihr die Gunst(erweise) Allahs aufzählen wolltet, könntet ihr sie nicht erfassen. Allah ist wahrlich Allvergebend und Barmherzig.",
+        "en": "And if you should count the favors of Allāh, you could not enumerate them. Indeed, Allāh is Forgiving and Merciful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 16,
+      "ayah": 78,
+      "arabic": "وَٱللَّهُ أَخْرَجَكُم مِّنۢ بُطُونِ أُمَّهَـٰتِكُمْ لَا تَعْلَمُونَ شَيْـًٔا وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ",
+      "translation": {
+        "de": "Und Allah hat euch aus den Leibern eurer Mütter hervorgebracht, während ihr nichts wußtet. Und Er hat euch Gehör, Augenlicht und Herzen gegeben, auf daß ihr dankbar sein möget.",
+        "en": "And Allāh has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and hearts [i.e., intellect] that perhaps you would be grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 16,
+      "ayah": 96,
+      "arabic": "مَا عِندَكُمْ يَنفَدُ ۖ وَمَا عِندَ ٱللَّهِ بَاقٍ ۗ وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+      "translation": {
+        "de": "Was bei euch ist, geht zu Ende; was aber bei Allah ist, ist bleibend. Wir werden denjenigen, die standhaft sind, ganz gewiß mit ihrem Lohn das Beste vergelten von dem, was sie taten.",
+        "en": "Whatever you have will end, but what Allāh has is lasting. And We will surely give those who were patient their reward according to the best of what they used to do."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 16,
+      "ayah": 99,
+      "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "translation": {
+        "de": "Er hat gewiß keine Macht über diejenigen, die glauben und sich auf ihren Herrn verlassen.",
+        "en": "Indeed, there is for him no authority over those who have believed and rely upon their Lord."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 16,
+      "ayah": 114,
+      "arabic": "فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَـٰلًا طَيِّبًا وَٱشْكُرُوا۟ نِعْمَتَ ٱللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "translation": {
+        "de": "So eßt von dem, womit Allah euch versorgt hat, als etwas Erlaubtes und Gutes, und seid dankbar für die Gunst Allahs, wenn ihr Ihm allein dient.",
+        "en": "Then eat of what Allāh has provided for you [which is] lawful and good. And be grateful for the favor of Allāh, if it is [indeed] Him that you worship."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 16,
+      "ayah": 125,
+      "arabic": "ٱدْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ ۖ وَجَـٰدِلْهُم بِٱلَّتِى هِىَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ ۖ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+      "translation": {
+        "de": "Rufe zum Weg deines Herrn mit Weisheit und schöner Ermahnung, und streite mit ihnen in bester Weise. Gewiß, dein Herr kennt sehr wohl, wer von Seinem Weg abirrt, und Er kennt sehr wohl die Rechtgeleiteten.",
+        "en": "Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 16,
+      "ayah": 127,
+      "arabic": "وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "translation": {
+        "de": "Sei standhaft; deine Standhaftigkeit ist nur durch Allah (möglich). Sei nicht traurig über sie, und sei nicht in Beklommenheit wegen der Ränke, die sie schmieden.",
+        "en": "And be patient, [O Muḥammad], and your patience is not but through Allāh. And do not grieve over them and do not be in distress over what they conspire."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 17,
+      "ayah": 9,
+      "arabic": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ يَهْدِى لِلَّتِى هِىَ أَقْوَمُ وَيُبَشِّرُ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ أَجْرًا كَبِيرًا",
+      "translation": {
+        "de": "Gewiß, dieser Qur’an leitet zu dem, was richtiger ist, und verkündet den Gläubigen, die rechtschaffene Werke tun, daß es für sie großen Lohn geben wird",
+        "en": "Indeed, this Qur’ān guides to that which is most suitable and gives good tidings to the believers who do righteous deeds that they will have a great reward"
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 17,
+      "ayah": 15,
+      "arabic": "مَّنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۗ وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبْعَثَ رَسُولًا",
+      "translation": {
+        "de": "Wer der Rechtleitung folgt, der ist nur zu seinem eigenen Vorteil rechtgeleitet. Und wer irregeht, der geht nur zu seinem Nachteil irre. Und keine lasttragende (Seele) nimmt die Last einer anderen auf sich. Wir strafen nicht eher, bis Wir einen Gesandten geschickt haben.",
+        "en": "Whoever is guided is only guided for [the benefit of] his soul. And whoever errs only errs against it. And no bearer of burdens will bear the burden of another. And never would We punish until We sent a messenger."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 17,
+      "ayah": 24,
+      "arabic": "وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًا",
+      "translation": {
+        "de": "Und senke für sie aus Barmherzigkeit den Flügel der Demut und sag: Mein Herr, erbarme Dich ihrer, wie sie mich aufgezogen haben, als ich klein war.",
+        "en": "And lower to them the wing of humility out of mercy and say, \"My Lord, have mercy upon them as they brought me up [when I was] small.\""
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 17,
+      "ayah": 25,
+      "arabic": "رَّبُّكُمْ أَعْلَمُ بِمَا فِى نُفُوسِكُمْ ۚ إِن تَكُونُوا۟ صَـٰلِحِينَ فَإِنَّهُۥ كَانَ لِلْأَوَّٰبِينَ غَفُورًا",
+      "translation": {
+        "de": "Euer Herr weiß sehr wohl, was in eurem Innersten ist. Wenn ihr rechtschaffen seid, so ist Er gewiß für die sich (zu Ihm) stets Bekehrenden Allvergebend.",
+        "en": "Your Lord is most knowing of what is within yourselves. If you should be righteous [in intention] - then indeed He is ever, to the often returning [to Him], Forgiving."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 17,
+      "ayah": 65,
+      "arabic": "إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَـٰنٌ ۚ وَكَفَىٰ بِرَبِّكَ وَكِيلًا",
+      "translation": {
+        "de": "„Gewiß, über Meine Diener hast du keine Macht. Und dein Herr genügt als Sachwalter.",
+        "en": "Indeed, over My [believing] servants there is for you no authority. And sufficient is your Lord as Disposer of affairs."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 17,
+      "ayah": 66,
+      "arabic": "رَّبُّكُمُ ٱلَّذِى يُزْجِى لَكُمُ ٱلْفُلْكَ فِى ٱلْبَحْرِ لِتَبْتَغُوا۟ مِن فَضْلِهِۦٓ ۚ إِنَّهُۥ كَانَ بِكُمْ رَحِيمًا",
+      "translation": {
+        "de": "Euer Herr ist es, der für euch die Schiffe auf dem Meer sanft bewegt, damit ihr nach etwas von Seiner Huld trachtet. Gewiß, Er ist zu euch Barmherzig.",
+        "en": "It is your Lord who drives the ship for you through the sea that you may seek of His bounty. Indeed, He is ever, to you, Merciful."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 17,
+      "ayah": 78,
+      "arabic": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ ۖ إِنَّ قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًا",
+      "translation": {
+        "de": "Verrichte das Gebet beim Neigen der Sonne bis zum Dunkel der Nacht, und (auch) die (Qur’an-)Lesung (in) der Morgendämmerung. Gewiß, die (Qur’an-)Lesung (in) der Morgendämmerung wird (von den Engeln) bezeugt.",
+        "en": "Establish prayer at the decline of the sun [from its meridian] until the darkness of the night and [also] the Qur’ān [i.e., recitation] of dawn. Indeed, the recitation of dawn is ever witnessed."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 17,
+      "ayah": 82,
+      "arabic": "وَنُنَزِّلُ مِنَ ٱلْقُرْءَانِ مَا هُوَ شِفَآءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ ٱلظَّـٰلِمِينَ إِلَّا خَسَارًا",
+      "translation": {
+        "de": "Und Wir offenbaren vom Qur’an, was für die Gläubigen Heilung und Barmherzigkeit ist; den Ungerechten aber mehrt es nur den Verlust.",
+        "en": "And We send down of the Qur’ān that which is healing and mercy for the believers, but it does not increase the wrongdoers except in loss."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 17,
+      "ayah": 110,
+      "arabic": "قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَـٰنَ ۖ أَيًّا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا",
+      "translation": {
+        "de": "Sag: Ruft Allah oder ruft den Allerbarmer an; welchen ihr auch ruft, Sein sind die schönsten Namen. Und sei nicht zu laut beim Gebet, und sei auch nicht zu leise dabei, sondern suche einen Weg dazwischen.",
+        "en": "Say, \"Call upon Allāh or call upon the Most Merciful [ar-Raḥmān]. Whichever [name] you call - to Him belong the best names.\" And do not recite [too] loudly in your prayer or [too] quietly but seek between that an [intermediate] way."
+      },
+      "categories": [
+        "mercy",
+        "prayer"
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 10,
+      "arabic": "إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ فَقَالُوا۟ رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+      "translation": {
+        "de": "Als die Jünglinge in der Höhle Zuflucht suchten und sagten: „Unser Herr, gib uns Barmherzigkeit von Dir aus, und bereite uns in unserer Angelegenheit einen rechten (Aus)weg.",
+        "en": "[Mention] when the youths retreated to the cave and said, \"Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.\""
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 46,
+      "arabic": "ٱلْمَالُ وَٱلْبَنُونَ زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱلْبَـٰقِيَـٰتُ ٱلصَّـٰلِحَـٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا",
+      "translation": {
+        "de": "Der Besitz und die Söhne sind der Schmuck des diesseitigen Lebens. Das Bleibende aber, die rechtschaffenen Werke -, sie sind bei deinem Herrn besser hinsichtlich der Belohnung und besser hinsichtlich der Hoffnung.",
+        "en": "Wealth and children are [but] adornment of the worldly life. But the enduring good deeds are better to your Lord for reward and better for [one's] hope."
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 110,
+      "arabic": "قُلْ إِنَّمَآ أَنَا۠ بَشَرٌ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًا صَـٰلِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا",
+      "translation": {
+        "de": "Sag: Gewiß, ich bin ja nur ein menschliches Wesen gleich euch; mir wird (als Offenbarung) eingegeben, daß euer Gott ein Einziger Gott ist. Wer nun auf die Begegnung mit seinem Herrn hofft, der soll rechtschaffen handeln und beim Dienst an seinem Herrn (Ihm) niemanden beigesellen.",
+        "en": "Say, \"I am only a man like you, to whom has been revealed that your god is one God. So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone.\""
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 19,
+      "ayah": 76,
+      "arabic": "وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ ٱهْتَدَوْا۟ هُدًى ۗ وَٱلْبَـٰقِيَـٰتُ ٱلصَّـٰلِحَـٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ مَّرَدًّا",
+      "translation": {
+        "de": "Und Allah mehrt denjenigen, die rechtgeleitet sind, ihre Rechtleitung. Das Bleibende aber, die rechtschaffenen Werke - sie sind bei deinem Herrn besser in der Belohnung und besser als Rückkehr.",
+        "en": "And Allāh increases those who were guided, in guidance, and the enduring good deeds are better to your Lord for reward and better for recourse."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 19,
+      "ayah": 96,
+      "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَيَجْعَلُ لَهُمُ ٱلرَّحْمَـٰنُ وُدًّا",
+      "translation": {
+        "de": "Gewiß, denjenigen, die glauben und rechtschaffene Werke tun, wird der Allerbarmer Liebe bereiten.",
+        "en": "Indeed, those who have believed and done righteous deeds - the Most Merciful will appoint for them affection."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 14,
+      "arabic": "إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ",
+      "translation": {
+        "de": "Gewiß, Ich bin Allah. Es gibt keinen Gott außer Mir. So diene Mir und verrichte das Gebet zu Meinem Gedenken.",
+        "en": "Indeed, I am Allāh. There is no deity except Me, so worship Me and establish prayer for My remembrance."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 25,
+      "arabic": "قَالَ رَبِّ ٱشْرَحْ لِى صَدْرِى",
+      "translation": {
+        "de": "Er sagte: „Mein Herr, weite mir meine Brust,",
+        "en": "[Moses] said, \"My Lord, expand [i.e., relax] for me my breast [with assurance]"
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 26,
+      "arabic": "وَيَسِّرْ لِىٓ أَمْرِى",
+      "translation": {
+        "de": "und mache mir meine Angelegenheit leicht.",
+        "en": "And ease for me my task"
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 82,
+      "arabic": "وَإِنِّى لَغَفَّارٌ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَـٰلِحًا ثُمَّ ٱهْتَدَىٰ",
+      "translation": {
+        "de": "Und Ich bin wahrlich Allvergebend für denjenigen, der bereut und glaubt und rechtschaffen handelt und sich hierauf rechtleiten läßt.",
+        "en": "But indeed, I am the Perpetual Forgiver of whoever repents and believes and does righteousness and then continues in guidance."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 114,
+      "arabic": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًا",
+      "translation": {
+        "de": "Erhaben ist Allah, der König, der Wahre! Und übereile dich nicht mit dem Qur’an, bevor dir seine Offenbarung vollständig eingegeben worden ist. Und sag: Mein Herr, lasse mich an Wissen zunehmen.",
+        "en": "So high [above all] is Allāh, the Sovereign, the Truth. And, [O Muḥammad], do not hasten with [recitation of] the Qur’ān before its revelation is completed to you, and say, \"My Lord, increase me in knowledge.\""
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 123,
+      "arabic": "قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۢا ۖ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ",
+      "translation": {
+        "de": "Er sagte: „Geht alle fort von ihm. Einige von euch seien des anderen Feind. Doch wenn dann von Mir Rechtleitung zu euch kommt, dann wird derjenige, der Meiner Rechtleitung folgt, nicht irregehen und nicht unglücklich sein.",
+        "en": "[Allāh] said, \"Descend from it [i.e., Paradise] - all, [your descendants] being enemies to one another. And if there should come to you guidance from Me - then whoever follows My guidance will neither go astray [in the world] nor suffer [in the Hereafter]."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 130,
+      "arabic": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+      "translation": {
+        "de": "So ertrage standhaft, was sie sagen, und lobpreise deinen Herrn vor dem Aufgang der Sonne und vor ihrem Untergang, und zu (verschiedenen) Stunden der Nacht preise (Ihn) und (ebenso) an den Enden des Tages, auf daß du zufrieden sein mögest.",
+        "en": "So be patient over what they say and exalt [Allāh] with praise of your Lord before the rising of the sun and before its setting; and during periods of the night [exalt Him] and at the ends of the day, that you may be satisfied."
+      },
+      "categories": [
+        "patience",
+        "prayer"
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 132,
+      "arabic": "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا ۖ لَا نَسْـَٔلُكَ رِزْقًا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَٱلْعَـٰقِبَةُ لِلتَّقْوَىٰ",
+      "translation": {
+        "de": "Und befiehl deinen Angehörigen, das Gebet (zu verrichten), und sei beharrlich darin. Wir fordern keine Versorgung von dir; Wir versorgen dich. Und das (gute) Ende gehört der Gottesfurcht.",
+        "en": "And enjoin prayer upon your family [and people] and be steadfast therein. We ask you not for provision; We provide for you, and the [best] outcome is for [those of] righteousness."
+      },
+      "categories": [
+        "patience",
+        "prayer"
+      ]
+    },
+    {
+      "surah": 21,
+      "ayah": 83,
+      "arabic": "۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+      "translation": {
+        "de": "Und (auch) Ayyub, als er zu seinem Herrn rief: „Mir ist gewiß Unheil widerfahren, doch Du bist der Barmherzigste der Barmherzigen.",
+        "en": "And [mention] Job, when he called to his Lord, \"Indeed, adversity has touched me, and You are the most merciful of the merciful.\""
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 21,
+      "ayah": 87,
+      "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَـٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَـٰتِ أَن لَّآ إِلَـٰهَ إِلَّآ أَنتَ سُبْحَـٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّـٰلِمِينَ",
+      "translation": {
+        "de": "Und (auch) dem Mann mit dem Fisch’, als er erzürnt wegging. Da meinte er, Wir würden ihm nicht (den Lebensunterhalt) bemessen. Dann rief er in den Finsternissen: „Es gibt keinen Gott außer Dir! Preis sei Dir! Gewiß, ich gehöre zu den Ungerechten.",
+        "en": "And [mention] the man of the fish [i.e., Jonah], when he went off in anger and thought that We would not decree [anything] upon him. And he called out within the darknesses, \"There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.\""
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 21,
+      "ayah": 107,
+      "arabic": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةً لِّلْعَـٰلَمِينَ",
+      "translation": {
+        "de": "Und Wir haben dich nur als Barmherzigkeit für die Weltenbewohner gesandt.",
+        "en": "And We have not sent you, [O Muḥammad], except as a mercy to the worlds."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 22,
+      "ayah": 50,
+      "arabic": "فَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "translation": {
+        "de": "Diejenigen nun, die glauben und rechtschaffene Werke tun, für sie wird es Vergebung und ehrenvolle Versorgung geben.",
+        "en": "And those who have believed and done righteous deeds - for them is forgiveness and noble provision."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 22,
+      "ayah": 77,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ ۩",
+      "translation": {
+        "de": "O die ihr glaubt, verbeugt euch, werft euch nieder und dient eurem Herrn und tut das Gute, auf daß es euch wohl ergehen möge!",
+        "en": "O you who have believed, bow and prostrate and worship your Lord and do good - that you may succeed."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 23,
+      "ayah": 78,
+      "arabic": "وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
+      "translation": {
+        "de": "Er ist es, Der euch Gehör, Augenlicht und Herzen hat entstehen lassen. Wie wenig dankbar ihr seid!",
+        "en": "And it is He who produced for you hearing and vision and hearts [i.e., intellect]; little are you grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 23,
+      "ayah": 109,
+      "arabic": "إِنَّهُۥ كَانَ فَرِيقٌ مِّنْ عِبَادِى يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
+      "translation": {
+        "de": "Gewiß, eine Gruppe von Meinen Dienern pflegte zu sagen: ,Unser Herr, wir glauben, so vergib uns und erbarme Dich unser, denn Du bist der Beste der Barmherzigen.’",
+        "en": "Indeed, there was a party of My servants who said, 'Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.'"
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 23,
+      "ayah": 111,
+      "arabic": "إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ بِمَا صَبَرُوٓا۟ أَنَّهُمْ هُمُ ٱلْفَآئِزُونَ",
+      "translation": {
+        "de": "Ich habe ihnen heute, daß sie standhaft waren, damit vergolten, daß sie die Erfolgreichen sind.",
+        "en": "Indeed, I have rewarded them this Day for their patient endurance - that they are the attainers [of success].\""
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 23,
+      "ayah": 118,
+      "arabic": "وَقُل رَّبِّ ٱغْفِرْ وَٱرْحَمْ وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
+      "translation": {
+        "de": "Und sag: Mein Herr, vergib und erbarme Dich, denn Du bist der Beste der Barmherzigen.",
+        "en": "And, [O Muḥammad], say, \"My Lord, forgive and have mercy, and You are the best of the merciful.\""
+      },
+      "categories": [
+        "mercy",
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 24,
+      "ayah": 22,
+      "arabic": "وَلَا يَأْتَلِ أُو۟لُوا۟ ٱلْفَضْلِ مِنكُمْ وَٱلسَّعَةِ أَن يُؤْتُوٓا۟ أُو۟لِى ٱلْقُرْبَىٰ وَٱلْمَسَـٰكِينَ وَٱلْمُهَـٰجِرِينَ فِى سَبِيلِ ٱللَّهِ ۖ وَلْيَعْفُوا۟ وَلْيَصْفَحُوٓا۟ ۗ أَلَا تُحِبُّونَ أَن يَغْفِرَ ٱللَّهُ لَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "translation": {
+        "de": "Und es sollen diejenigen von euch, die Überfluß und Wohlstand besitzen, nicht schwören, sie würden den Verwandten, den Armen und denjenigen, die auf Allahs Weg ausgewandert sind, nichts mehr geben, sondern sie sollen verzeihen und nachsichtig sein. Liebt ihr es (selbst) nicht, daß Allah euch vergibt? Allah ist Allvergebend und Barmherzig.",
+        "en": "And let not those of virtue among you and wealth swear not to give [aid] to their relatives and the needy and the emigrants for the cause of Allāh, and let them pardon and overlook. Would you not like that Allāh should forgive you? And Allāh is Forgiving and Merciful."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 24,
+      "ayah": 37,
+      "arabic": "رِجَالٌ لَّا تُلْهِيهِمْ تِجَـٰرَةٌ وَلَا بَيْعٌ عَن ذِكْرِ ٱللَّهِ وَإِقَامِ ٱلصَّلَوٰةِ وَإِيتَآءِ ٱلزَّكَوٰةِ ۙ يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ ٱلْقُلُوبُ وَٱلْأَبْصَـٰرُ",
+      "translation": {
+        "de": "Männer, die weder Handel noch Kaufgeschäft ablenken vom Gedenken Allahs, von der Verrichtung des Gebets und der Entrichtung der Abgabe, die einen Tag fürchten, an dem Herzen und Augenlicht umgekehrt werden,",
+        "en": "[Are] men whom neither commerce nor sale distracts from the remembrance of Allāh and performance of prayer and giving of zakāh. They fear a Day in which the hearts and eyes will [fearfully] turn about -"
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 24,
+      "ayah": 46,
+      "arabic": "لَّقَدْ أَنزَلْنَآ ءَايَـٰتٍ مُّبَيِّنَـٰتٍ ۚ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "translation": {
+        "de": "Wir haben ja Zeichen hinabgesandt, die (alles) klar machen. Und Allah leitet, wen Er will, zu einem geraden Weg.",
+        "en": "We have certainly sent down distinct verses. And Allāh guides whom He wills to a straight path."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 24,
+      "ayah": 56,
+      "arabic": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "translation": {
+        "de": "Und verrichtet das Gebet und entrichtet die Abgabe und gehorcht dem Gesandten, auf daß ihr Erbarmen finden möget!",
+        "en": "And establish prayer and give zakāh and obey the Messenger - that you may receive mercy."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 25,
+      "ayah": 58,
+      "arabic": "وَتَوَكَّلْ عَلَى ٱلْحَىِّ ٱلَّذِى لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ ۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا",
+      "translation": {
+        "de": "Und verlasse dich auf den Lebendigen, Der nicht stirbt, und lobpreise Ihn. Er genügt als Kenner der Sünden Seiner Diener,",
+        "en": "And rely upon the Ever-Living who does not die, and exalt [Allāh] with His praise. And sufficient is He to be, with the sins of His servants, [fully] Aware -"
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 25,
+      "ayah": 62,
+      "arabic": "وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا",
+      "translation": {
+        "de": "Und Er ist es, Der die Nacht und den Tag so gemacht hat, daß sie sich voneinander für jemanden unterscheiden, der bedenken oder Dankbarkeit zeigen will.",
+        "en": "And it is He who has made the night and the day in succession for whoever desires to remember or desires gratitude."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 25,
+      "ayah": 63,
+      "arabic": "وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَـٰهِلُونَ قَالُوا۟ سَلَـٰمًا",
+      "translation": {
+        "de": "Die Diener des Allerbarmers sind diejenigen, die maßvoll auf der Erde umhergehen und die, wenn die Toren sie ansprechen, sagen: „Frieden!",
+        "en": "And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace,"
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 25,
+      "ayah": 71,
+      "arabic": "وَمَن تَابَ وَعَمِلَ صَـٰلِحًا فَإِنَّهُۥ يَتُوبُ إِلَى ٱللَّهِ مَتَابًا",
+      "translation": {
+        "de": "Und wer bereut und rechtschaffen handelt, der wendet sich in wahrhaftiger Reue Allah zu.",
+        "en": "And he who repents and does righteousness does indeed turn to Allāh with [accepted] repentance."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 25,
+      "ayah": 74,
+      "arabic": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّـٰتِنَا قُرَّةَ أَعْيُنٍ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "translation": {
+        "de": "Und diejenigen, die sagen: „Unser Herr, schenke uns an unseren Gattinnen und unseren Nachkommenschaften Grund zur Freude, und mache uns für die Rechtschaffenen zu einem Vorbild.",
+        "en": "And those who say, \"Our Lord, grant us from among our wives and offspring comfort to our eyes and make us a leader [i.e., example] for the righteous.\""
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 26,
+      "ayah": 78,
+      "arabic": "ٱلَّذِى خَلَقَنِى فَهُوَ يَهْدِينِ",
+      "translation": {
+        "de": "Der mich erschaffen hat und mich (nun) rechtleitet,",
+        "en": "Who created me, and He [it is who] guides me."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 26,
+      "ayah": 217,
+      "arabic": "وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ ٱلرَّحِيمِ",
+      "translation": {
+        "de": "Und verlasse dich auf den Allmächtigen und Barmherzigen,",
+        "en": "And rely upon the Exalted in Might, the Merciful,"
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 27,
+      "ayah": 19,
+      "arabic": "فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَـٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ ٱلصَّـٰلِحِينَ",
+      "translation": {
+        "de": "Da lächelte er erheitert über ihre Worte und sagte: „Mein Herr, veranlasse mich, für Deine Gunst zu danken, die Du mir und meinen Eltern erwiesen hast, und rechtschaffen zu handeln, womit Du zufrieden bist. Und lasse mich durch Deine Barmherzigkeit eingehen in die Reihen Deiner rechtschaffenen Diener.",
+        "en": "So [Solomon] smiled, amused at her speech, and said, \"My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants.\""
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 27,
+      "ayah": 46,
+      "arabic": "قَالَ يَـٰقَوْمِ لِمَ تَسْتَعْجِلُونَ بِٱلسَّيِّئَةِ قَبْلَ ٱلْحَسَنَةِ ۖ لَوْلَا تَسْتَغْفِرُونَ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "translation": {
+        "de": "Er sagte: „O mein Volk, warum wünscht ihr, das Schlechte vor dem Guten zu beschleunigen? Würdet ihr doch Allah um Vergebung bitten, auf daß ihr Erbarmen finden möget!",
+        "en": "He said, \"O my people, why are you impatient for evil before [i.e., instead of] good? Why do you not seek forgiveness of Allāh that you may receive mercy?\""
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 27,
+      "ayah": 73,
+      "arabic": "وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+      "translation": {
+        "de": "Dein Herr ist wahrlich voll Huld gegen die Menschen. Aber die meisten von ihnen sind nicht dankbar.",
+        "en": "And indeed, your Lord is the possessor of bounty for the people, but most of them are not grateful.\""
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 27,
+      "ayah": 79,
+      "arabic": "فَتَوَكَّلْ عَلَى ٱللَّهِ ۖ إِنَّكَ عَلَى ٱلْحَقِّ ٱلْمُبِينِ",
+      "translation": {
+        "de": "So verlasse dich auf Allah, denn du verfährst nach der offenkundigen Wahrheit.",
+        "en": "So rely upon Allāh; indeed, you are upon the clear truth."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 28,
+      "ayah": 16,
+      "arabic": "قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "translation": {
+        "de": "Er sagte: „Mein Herr, ich habe mir selbst Unrecht zugefügt; so vergib mir. Da vergab Er ihm, denn Er ist ja der Allvergebende und Barmherzige.",
+        "en": "He said, \"My Lord, indeed I have wronged myself, so forgive me,\" and He forgave him. Indeed, He is the Forgiving, the Merciful."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 28,
+      "ayah": 73,
+      "arabic": "وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "translation": {
+        "de": "In Seiner Barmherzigkeit hat Er euch die Nacht und den Tag gemacht, damit ihr darin ruht und damit ihr (auch) nach etwas von Seiner Huld trachtet, und auf daß ihr dankbar sein möget.",
+        "en": "And out of His mercy He made for you the night and the day that you may rest therein and [by day] seek from His bounty and [that] perhaps you will be grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 29,
+      "ayah": 5,
+      "arabic": "مَن كَانَ يَرْجُوا۟ لِقَآءَ ٱللَّهِ فَإِنَّ أَجَلَ ٱللَّهِ لَـَٔاتٍ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "translation": {
+        "de": "Wer die Begegnung mit Allah erwartet-, so wird Allahs Frist sicher kommen. Und Er ist der Allhörende und Allwissende.",
+        "en": "Whoever should hope for the meeting with Allāh - indeed, the term [decreed by] Allāh is coming. And He is the Hearing, the Knowing."
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 29,
+      "ayah": 45,
+      "arabic": "ٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِنَ ٱلْكِتَـٰبِ وَأَقِمِ ٱلصَّلَوٰةَ ۖ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ ۗ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ ۗ وَٱللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+      "translation": {
+        "de": "Verlies, was dir vom Buch (als Offenbarung) eingegeben wird, und verrichte das Gebet. Gewiß, das Gebet hält davon ab, das Schändliche und das Verwerfliche (zu tun). Und das Gedenken Allahs ist wahrlich größer. Und Allah weiß, was ihr macht.",
+        "en": "Recite, [O Muḥammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allāh is greater. And Allāh knows that which you do."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 29,
+      "ayah": 69,
+      "arabic": "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ",
+      "translation": {
+        "de": "Diejenigen aber, die sich um Unsertwillen abmühen, werden Wir ganz gewiß Unsere Wege leiten. Und Allah ist wahrlich mit den Gutes Tuenden.",
+        "en": "And those who strive for Us - We will surely guide them to Our ways. And indeed, Allāh is with the doers of good."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 30,
+      "ayah": 17,
+      "arabic": "فَسُبْحَـٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+      "translation": {
+        "de": "Preis sei daher Allah, wenn ihr den Abend erreicht und auch wenn ihr den Morgen erreicht!",
+        "en": "So exalted is Allāh when you reach the evening and when you reach the morning."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 30,
+      "ayah": 21,
+      "arabic": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+      "translation": {
+        "de": "Und es gehört zu Seinen Zeichen, daß Er euch aus euch selbst Gattinnen erschaffen hat, damit ihr bei ihnen Ruhe findet; und Er hat Zuneigung und Barmherzigkeit zwischen euch gesetzt. Darin sind wahrlich Zeichen für Leute, die nachdenken.",
+        "en": "And of His signs is that He created for you from yourselves mates that you may find tranquility in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 30,
+      "ayah": 46,
+      "arabic": "وَمِنْ ءَايَـٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "translation": {
+        "de": "Und es gehört zu Seinen Zeichen, daß Er die Winde als Verkünder froher Botschaft (voraus)sendet, und damit Er euch etwas von Seiner Barmherzigkeit kosten läßt und damit die Schiffe auf Seinen Befehl fahren und damit ihr nach etwas von Seiner Huld trachtet, und auf daß ihr dankbar sein möget.",
+        "en": "And of His signs is that He sends the winds as bringers of good tidings and to let you taste His mercy [i.e., rain] and so the ships may sail at His command and so you may seek of His bounty, and perhaps you will be grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 30,
+      "ayah": 50,
+      "arabic": "فَٱنظُرْ إِلَىٰٓ ءَاثَـٰرِ رَحْمَتِ ٱللَّهِ كَيْفَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ ذَٰلِكَ لَمُحْىِ ٱلْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "translation": {
+        "de": "Schau doch auf die Spuren von Allahs Barmherzigkeit, wie Er die Erde nach ihrem Tod wieder lebendig macht. Er ist wahrlich Derjenige, Der (auch) die Toten wieder lebendig macht, und Er hat zu allem die Macht.",
+        "en": "So observe the effects of the mercy of Allāh - how He gives life to the earth after its lifelessness. Indeed, that [same one] will give life to the dead, and He is over all things competent."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 30,
+      "ayah": 60,
+      "arabic": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ",
+      "translation": {
+        "de": "So sei standhaft. Gewiß, Allahs Versprechen ist wahr. Und diejenigen, die nicht überzeugt sind, sollen dich ja nicht ins Wanken bringen.",
+        "en": "So be patient. Indeed, the promise of Allāh is truth. And let them not disquiet you who are not certain [in faith]."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 31,
+      "ayah": 12,
+      "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ",
+      "translation": {
+        "de": "Und Wir gaben ja Luqman Weisheit: „Sei Allah dankbar. Und wer dankbar ist, der ist nur zu seinem eigenen Vorteil dankbar. Und wer undankbar ist, - so ist Allah Unbedürftig und Lobenswürdig.",
+        "en": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 31,
+      "ayah": 14,
+      "arabic": "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَـٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ",
+      "translation": {
+        "de": "Und Wir haben dem Menschen seine Eltern anbefohlen - seine Mutter hat ihn unter wiederholter Schwäche getragen, und seine Entwöhnung (erfolgt) innerhalb von zwei Jahren -: „Sei Mir und deinen Eltern dankbar. Zu Mir ist der Ausgang.",
+        "en": "And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 31,
+      "ayah": 17,
+      "arabic": "يَـٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "translation": {
+        "de": "O mein lieber Sohn, verrichte das Gebet, gebiete das Rechte und verbiete das Verwerfliche und ertrage standhaft, was dich trifft. Gewiß, dies gehört zur Entschlossenheit (in der Handhabung) der Angelegenheiten.",
+        "en": "O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you. Indeed, [all] that is of the matters [requiring] resolve."
+      },
+      "categories": [
+        "patience",
+        "prayer"
+      ]
+    },
+    {
+      "surah": 31,
+      "ayah": 22,
+      "arabic": "۞ وَمَن يُسْلِمْ وَجْهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ ۗ وَإِلَى ٱللَّهِ عَـٰقِبَةُ ٱلْأُمُورِ",
+      "translation": {
+        "de": "Wer sich Allah völlig hingibt und dabei Gutes tut, der hält sich an die festeste Handhabe. Und zu Allah (führt) das Ende der Angelegenheiten.",
+        "en": "And whoever submits his face [i.e., self] to Allāh while he is a doer of good - then he has grasped the most trustworthy handhold. And to Allāh will be the outcome of [all] matters."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 32,
+      "ayah": 16,
+      "arabic": "تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+      "translation": {
+        "de": "Ihre Seiten weichen vor den Schlafstätten zurück; sie rufen ihren Herrn in Furcht und Begehren an und geben von dem, womit Wir sie versorgt haben, aus.",
+        "en": "Their sides part [i.e., they arise] from [their] beds; they supplicate their Lord in fear and aspiration, and from what We have provided them, they spend."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 33,
+      "ayah": 3,
+      "arabic": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "translation": {
+        "de": "Und verlasse dich auf Allah. Allah genügt als Sachwalter.",
+        "en": "And rely upon Allāh; and sufficient is Allāh as Disposer of affairs."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 33,
+      "ayah": 21,
+      "arabic": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًا",
+      "translation": {
+        "de": "Ihr habt ja im Gesandten Allahs ein schönes Vorbild, (und zwar) für einen jeden, der auf Allah und den Jüngsten Tag hofft und Allahs viel gedenkt.",
+        "en": "There has certainly been for you in the Messenger of Allāh an excellent pattern for anyone whose hope is in Allāh and the Last Day and [who] remembers Allāh often."
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 33,
+      "ayah": 41,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ ٱللَّهَ ذِكْرًا كَثِيرًا",
+      "translation": {
+        "de": "O die ihr glaubt, gedenkt Allahs in häufigem Gedenken",
+        "en": "O you who have believed, remember Allāh with much remembrance"
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 33,
+      "ayah": 42,
+      "arabic": "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "translation": {
+        "de": "und preist Ihn morgens und abends.",
+        "en": "And exalt Him morning and afternoon."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 33,
+      "ayah": 43,
+      "arabic": "هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَـٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًا",
+      "translation": {
+        "de": "Er ist es, Der über euch den Segen spricht - und auch Seine Engel -, damit Er euch aus den Finsternissen ins Licht hinausbringt; und Er ist zu den Gläubigen Barmherzig.",
+        "en": "It is He who confers blessing upon you, and His angels [ask Him to do so] that He may bring you out from darknesses into the light. And ever is He, to the believers, Merciful."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 33,
+      "ayah": 48,
+      "arabic": "وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ وَدَعْ أَذَىٰهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "translation": {
+        "de": "Und gehorche nicht den Ungläubigen und den Heuchlern; beachte nicht die Beleidigungen, die sie dir zufügen, und verlasse dich auf Allah. Und Allah genügt als Sachwalter.",
+        "en": "And do not obey the disbelievers and the hypocrites and disregard their annoyance, and rely upon Allāh. And sufficient is Allāh as Disposer of affairs."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 34,
+      "ayah": 13,
+      "arabic": "يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَـٰرِيبَ وَتَمَـٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَـٰتٍ ۚ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا ۚ وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ",
+      "translation": {
+        "de": "Sie machten ihm, was er wollte, an Gebetsräumen, Bildwerken, Schüsseln wie Wasserbecken und feststehenden Kesseln. - „Verrichtet, ihr Sippe Dawuds, eure Arbeit in Dankbarkeit, denn (nur) wenige von Meinen Dienern sind wirklich dankbar.",
+        "en": "They made for him what he willed of elevated chambers, statues, bowls like reservoirs, and stationary kettles. [We said], \"Work, O family of David, in gratitude.\" And few of My servants are grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 34,
+      "ayah": 50,
+      "arabic": "قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفْسِى ۖ وَإِنِ ٱهْتَدَيْتُ فَبِمَا يُوحِىٓ إِلَىَّ رَبِّىٓ ۚ إِنَّهُۥ سَمِيعٌ قَرِيبٌ",
+      "translation": {
+        "de": "Sag: Wenn ich irregehe, gehe ich nur zu meinem eigenen Nachteil irre, und wenn ich rechtgeleitet bin, so ist es durch das, was mir mein Herr (als Offenbarung) eingibt. Gewiß, Er ist Allhörend und nahe.",
+        "en": "Say, \"If I should err, I would only err against myself. But if I am guided, it is by what my Lord reveals to me. Indeed, He is Hearing and near.\""
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 35,
+      "ayah": 2,
+      "arabic": "مَّا يَفْتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُۥ مِنۢ بَعْدِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "translation": {
+        "de": "Was Allah den Menschen an Barmherzigkeit auftut, das kann keiner zurückhalten. Und was Er zurückhält, das kann keiner nach Ihm freigeben. Und Er ist der Allmächtige und Allweise.",
+        "en": "Whatever Allāh grants to people of mercy - none can withhold it; and whatever He withholds - none can release it thereafter. And He is the Exalted in Might, the Wise."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 35,
+      "ayah": 12,
+      "arabic": "وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَـٰذَا عَذْبٌ فُرَاتٌ سَآئِغٌ شَرَابُهُۥ وَهَـٰذَا مِلْحٌ أُجَاجٌ ۖ وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا ۖ وَتَرَى ٱلْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "translation": {
+        "de": "Nicht gleich sind die beiden Meere: dies ist süß, erfrischend und angenehm zu trinken; jenes ist salzig und (auf der Zunge) brennend. Und aus allen (beiden) eßt ihr frisches Fleisch und holt Schmuck heraus, den ihr anlegt. Und du siehst die Schiffe, wie sie es durchpflügen, damit ihr nach etwas von Seiner Huld trachtet, und auf daß ihr dankbar sein möget!",
+        "en": "And not alike are the two seas [i.e., bodies of water]. One is fresh and sweet, palatable for drinking, and one is salty and bitter. And from each you eat tender meat and extract ornaments which you wear, and you see the ships plowing through [them] that you might seek of His bounty; and perhaps you will be grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 35,
+      "ayah": 29,
+      "arabic": "إِنَّ ٱلَّذِينَ يَتْلُونَ كِتَـٰبَ ٱللَّهِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَـٰهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَـٰرَةً لَّن تَبُورَ",
+      "translation": {
+        "de": "Gewiß, diejenigen, die Allahs Buch verlesen, das Gebet verrichten und von dem, womit Wir sie versorgt haben, heimlich und öffentlich ausgeben, hoffen auf einen Handel, der nicht zu Fall kommen wird,",
+        "en": "Indeed, those who recite the Book of Allāh and establish prayer and spend [in His cause] out of what We have provided them, secretly and publicly, [can] expect a transaction [i.e., profit] that will never perish -"
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 36,
+      "ayah": 58,
+      "arabic": "سَلَـٰمٌ قَوْلًا مِّن رَّبٍّ رَّحِيمٍ",
+      "translation": {
+        "de": "Friede!, als (Gruß)wort von einem barmherzigen Herrn.",
+        "en": "[And] \"Peace,\" a word from a Merciful Lord."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 39,
+      "ayah": 9,
+      "arabic": "أَمَّنْ هُوَ قَـٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًا وَقَآئِمًا يَحْذَرُ ٱلْـَٔاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "translation": {
+        "de": "Ist etwa einer, der sich zu (verschiedenen) Stunden der Nacht in demütiger Andacht befindet, (ob er) sich niederwirft oder aufrecht steht, der sich vor dem Jenseits vorsieht und auf seines Herrn Barmherzigkeit hofft ...? - Sag: Sind etwa diejenigen, die wissen, und diejenigen, die nicht wissen, gleich? Doch bedenken nur diejenigen, die Verstand besitzen.",
+        "en": "Is one who is devoutly obedient during periods of the night, prostrating and standing [in prayer], fearing the Hereafter and hoping for the mercy of his Lord, [like one who does not]? Say, \"Are those who know equal to those who do not know?\" Only they will remember [who are] people of understanding."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 39,
+      "ayah": 10,
+      "arabic": "قُلْ يَـٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةٌ ۗ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ ۗ إِنَّمَا يُوَفَّى ٱلصَّـٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+      "translation": {
+        "de": "Sag: O meine Diener, die ihr gläubig seid, fürchtet euren Herrn. Für diejenigen, die Gutes tun, gibt es hier im Diesseits Gutes. Und Allahs Erde ist weit. Gewiß, den Standhaften wird ihr Lohn ohne Berechnung in vollem Maß zukommen.",
+        "en": "Say, \"O My servants who have believed, fear your Lord. For those who do good in this world is good, and the earth of Allāh is spacious. Indeed, the patient will be given their reward without account [i.e., limit].\""
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 39,
+      "ayah": 18,
+      "arabic": "ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُۥٓ ۚ أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَىٰهُمُ ٱللَّهُ ۖ وَأُو۟لَـٰٓئِكَ هُمْ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "translation": {
+        "de": "die auf das Wort hören und dann dem Besten davon folgen. Das sind diejenigen, die Allah rechtleitet, und das sind diejenigen, die Verstand besitzen.",
+        "en": "Who listen to speech and follow the best of it. Those are the ones Allāh has guided, and those are people of understanding."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 39,
+      "ayah": 22,
+      "arabic": "أَفَمَن شَرَحَ ٱللَّهُ صَدْرَهُۥ لِلْإِسْلَـٰمِ فَهُوَ عَلَىٰ نُورٍ مِّن رَّبِّهِۦ ۚ فَوَيْلٌ لِّلْقَـٰسِيَةِ قُلُوبُهُم مِّن ذِكْرِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍ مُّبِينٍ",
+      "translation": {
+        "de": "Ist denn jemand, dessen Brust Allah für den Islam auftut, so daß er sich nach einem Licht von seinem Herrn richtet, (einem beharrlich Ungläubigen gleich)? So wehe denjenigen, deren Herzen gegen Allahs Ermahnung verhärtet sind! Sie befinden sich in deutlichem Irrtum.",
+        "en": "So is one whose breast Allāh has expanded to [accept] Islām and he is upon [i.e., guided by] a light from his Lord [like one whose heart rejects it]? Then woe to those whose hearts are hardened against the remembrance of Allāh. Those are in manifest error."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 39,
+      "ayah": 53,
+      "arabic": "۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "translation": {
+        "de": "Sag: O Meine Diener, die ihr gegen euch selbst maßlos gewesen seid, verliert nicht die Hoffnung auf Allahs Barmherzigkeit. Gewiß, Allah vergibt die Sünden alle. Er ist ja der Allvergebende und Barmherzige.",
+        "en": "Say, \"O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allāh. Indeed, Allāh forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.\""
+      },
+      "categories": [
+        "mercy",
+        "forgiveness",
+        "hope"
+      ]
+    },
+    {
+      "surah": 39,
+      "ayah": 54,
+      "arabic": "وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا۟ لَهُۥ مِن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ ثُمَّ لَا تُنصَرُونَ",
+      "translation": {
+        "de": "Und wendet euch eurem Herrn reuig zu und seid Ihm ergeben, bevor die Strafe über euch kommt, worauf euch keine Hilfe zuteil werden wird.",
+        "en": "And return [in repentance] to your Lord and submit to Him before the punishment comes upon you; then you will not be helped."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 39,
+      "ayah": 62,
+      "arabic": "ٱللَّهُ خَـٰلِقُ كُلِّ شَىْءٍ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ",
+      "translation": {
+        "de": "Allah ist der Schöpfer von allem, und Er ist Sachwalter über alles.",
+        "en": "Allāh is the Creator of all things, and He is, over all things, Disposer of affairs."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 39,
+      "ayah": 66,
+      "arabic": "بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّـٰكِرِينَ",
+      "translation": {
+        "de": "Nein! Vielmehr Allah (allein) sollst du dienen und zu den Dankbaren sollst du gehören.",
+        "en": "Rather, worship [only] Allāh and be among the grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 40,
+      "ayah": 3,
+      "arabic": "غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوْبِ شَدِيدِ ٱلْعِقَابِ ذِى ٱلطَّوْلِ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ إِلَيْهِ ٱلْمَصِيرُ",
+      "translation": {
+        "de": "dem Vergebenden der Sünde und dem Anehmenden der Reue, dem Strengen in der Bestrafung und Dem, Der voller Wohltätigkeit ist. Es gibt keinen Gott außer Ihm. Zu Ihm ist der Ausgang.",
+        "en": "The forgiver of sin, acceptor of repentance, severe in punishment, owner of abundance. There is no deity except Him; to Him is the destination."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 40,
+      "ayah": 7,
+      "arabic": "ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍ رَّحْمَةً وَعِلْمًا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ",
+      "translation": {
+        "de": "Diejenigen, die den Thron tragen, und diejenigen, die in seiner Umgebung sind, lobpreisen ihren Herrn und glauben an Ihn und bitten um Vergebung für diejenigen, die glauben: Unser Herr, Du umfaßt alles in Deiner Barmherzigkeit und Deinem Wissen. So vergib denjenigen, die bereuen und Deinem Weg folgen, und bewahre sie vor der Strafe des Höllenbrandes.",
+        "en": "Those [angels] who carry the Throne and those around it exalt [Allāh] with praise of their Lord and believe in Him and ask forgiveness for those who have believed, [saying], \"Our Lord, You have encompassed all things in mercy and knowledge, so forgive those who have repented and followed Your way and protect them from the punishment of Hellfire."
+      },
+      "categories": [
+        "mercy",
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 40,
+      "ayah": 55,
+      "arabic": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ",
+      "translation": {
+        "de": "So sei standhaft. Gewiß, Allahs Versprechen ist wahr. Und bitte um Vergebung für deine Sünde und lobpreise deinen Herrn am Abend und am frühen Morgen.",
+        "en": "So be patient, [O Muḥammad]. Indeed, the promise of Allāh is truth. And ask forgiveness for your sin and exalt [Allāh] with praise of your Lord in the evening and the morning."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 40,
+      "ayah": 60,
+      "arabic": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+      "translation": {
+        "de": "Euer Herr sagt: Ruft Mich an, so erhöre Ich euch. Gewiß, diejenigen, die sich aus Hochmut weigern, Mir zu dienen, werden in die Hölle gedemütigt eingehen.",
+        "en": "And your Lord says, \"Call upon Me; I will respond to you.\" Indeed, those who disdain My worship will enter Hell [rendered] contemptible."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 40,
+      "ayah": 61,
+      "arabic": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "translation": {
+        "de": "Allah ist es, Der euch die Nacht gemacht hat, damit ihr in ihr ruht, und den Tag hell’. Allah ist wahrlich voll Huld gegen die Menschen. Aber die meisten Menschen sind nicht dankbar.",
+        "en": "It is Allāh who made for you the night that you may rest therein and the day giving sight. Indeed, Allāh is the possessor of bounty for the people, but most of them are not grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 40,
+      "ayah": 77,
+      "arabic": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۚ فَإِمَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا يُرْجَعُونَ",
+      "translation": {
+        "de": "So sei standhaft. Gewiß, Allahs Versprechen ist wahr. Ob Wir dich einen Teil dessen, was Wir ihnen androhen, sehen lassen oder dich (vorher) abberufen, zu Uns werden sie zurückgebracht.",
+        "en": "So be patient, [O Muḥammad]; indeed, the promise of Allāh is truth. And whether We show you some of what We have promised them or We take you in death, it is to Us they will be returned."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 42,
+      "ayah": 10,
+      "arabic": "وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+      "translation": {
+        "de": "Und worüber ihr auch immer uneinig seid, das Urteil darüber steht Allah (allein) zu. Dies ist doch Allah, mein Herr. Auf Ihn verlasse ich mich, und Ihm wende ich mich reuig zu.",
+        "en": "And in anything over which you disagree - its ruling is [to be referred] to Allāh. [Say], \"That is Allāh, my Lord; upon Him I have relied, and to Him I turn back.\""
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 42,
+      "ayah": 25,
+      "arabic": "وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ",
+      "translation": {
+        "de": "Er ist es, Der die Reue von Seinen Dienern annimmt und die Missetaten verzeiht. Und Er weiß, was ihr tut.",
+        "en": "And it is He who accepts repentance from His servants and pardons misdeeds, and He knows what you do."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 42,
+      "ayah": 26,
+      "arabic": "وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ ۚ وَٱلْكَـٰفِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ",
+      "translation": {
+        "de": "Und Er erhört diejenigen, die glauben und rechtschaffene Werke tun, und Er gibt ihnen noch mehr von Seiner Huld. Für die Ungläubigen aber wird es strenge Strafe geben.",
+        "en": "And He answers [the supplication of] those who have believed and done righteous deeds and increases [for] them from His bounty. But the disbelievers will have a severe punishment."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 42,
+      "ayah": 28,
+      "arabic": "وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟ وَيَنشُرُ رَحْمَتَهُۥ ۚ وَهُوَ ٱلْوَلِىُّ ٱلْحَمِيدُ",
+      "translation": {
+        "de": "Und Er ist es, Der den Regen herabkommen läßt, nachdem sie die Hoffnung aufgegeben haben, und Der Seine Barmherzigkeit ausbreitet. Und Er ist der Schutzherr und Lobenswürdige.",
+        "en": "And it is He who sends down the rain after they had despaired and spreads His mercy. And He is the Protector, the Praiseworthy."
+      },
+      "categories": [
+        "mercy",
+        "hope"
+      ]
+    },
+    {
+      "surah": 42,
+      "ayah": 30,
+      "arabic": "وَمَآ أَصَـٰبَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُوا۟ عَن كَثِيرٍ",
+      "translation": {
+        "de": "Und was immer euch an Unglück trifft, es ist für das, was eure Hände erworben haben. Und Er verzeiht vieles.",
+        "en": "And whatever strikes you of disaster - it is for what your hands have earned; but He pardons much."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 42,
+      "ayah": 37,
+      "arabic": "وَٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ",
+      "translation": {
+        "de": "und diejenigen, die schwerwiegende Sünden und Abscheulichkeiten meiden und, wenn sie zornig sind, (doch) vergeben,",
+        "en": "And those who avoid the major sins and immoralities, and when they are angry, they forgive,"
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 42,
+      "ayah": 40,
+      "arabic": "وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّـٰلِمِينَ",
+      "translation": {
+        "de": "Die Vergeltung für eine böse Tat ist etwas gleich Böses. Wer aber verzeiht und Besserung bringt, dessen Lohn obliegt Allah. Er liebt ja nicht die Ungerechten.",
+        "en": "And the retribution for an evil act is an evil one like it, but whoever pardons and makes reconciliation - his reward is [due] from Allāh. Indeed, He does not like wrongdoers."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 42,
+      "ayah": 43,
+      "arabic": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ",
+      "translation": {
+        "de": "Wahrlich, wenn einer standhaft erträgt und vergibt, so gehört dies zur Entschlossenheit (in der Handhabe) der Angelegenheiten.",
+        "en": "And whoever is patient and forgives - indeed, that is of the matters [worthy] of resolve."
+      },
+      "categories": [
+        "patience",
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 43,
+      "ayah": 43,
+      "arabic": "فَٱسْتَمْسِكْ بِٱلَّذِىٓ أُوحِىَ إِلَيْكَ ۖ إِنَّكَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "translation": {
+        "de": "Halte also fest an dem, was dir (als Offenbarung) eingegeben worden ist; gewiß, du befindest dich auf einem geraden Weg.",
+        "en": "So adhere to that which is revealed to you. Indeed, you are on a straight path."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 45,
+      "ayah": 12,
+      "arabic": "۞ ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "translation": {
+        "de": "Allah ist es, Der euch das Meer dienstbar gemacht hat, damit die Schiffe darauf auf Seinen Befehl fahren und damit ihr nach etwas von Seiner Huld trachtet, und auf daß ihr dankbar sein möget.",
+        "en": "It is Allāh who subjected to you the sea so that ships may sail upon it by His command and that you may seek of His bounty; and perhaps you will be grateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 45,
+      "ayah": 20,
+      "arabic": "هَـٰذَا بَصَـٰٓئِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍ يُوقِنُونَ",
+      "translation": {
+        "de": "Dies sind einsichtbringende Zeichen für die Menschen und Rechtleitung und Barmherzigkeit für Leute, die überzeugt sind.",
+        "en": "This [Qur’ān] is enlightenment for mankind and guidance and mercy for a people who are certain [in faith]."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 45,
+      "ayah": 30,
+      "arabic": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِى رَحْمَتِهِۦ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْمُبِينُ",
+      "translation": {
+        "de": "Was nun diejenigen angeht, die geglaubt und rechtschaffene Werke getan haben, so wird ihr Herr sie in Seine Barmherzigkeit eingehen lassen. Das ist der deutliche Erfolg.",
+        "en": "So as for those who believed and did righteous deeds, their Lord will admit them into His mercy. That is what is the clear attainment."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 47,
+      "ayah": 17,
+      "arabic": "وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ",
+      "translation": {
+        "de": "Und denjenigen, die rechtgeleitet sind, mehrt Er die Rechtleitung und verleiht ihnen ihre Gottesfurcht.",
+        "en": "And those who are guided - He increases them in guidance and gives them their righteousness."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 47,
+      "ayah": 19,
+      "arabic": "فَٱعْلَمْ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ",
+      "translation": {
+        "de": "Wisse also, daß es keinen Gott außer Allah gibt. Und bitte um Vergebung für deine Sünde und für die gläubigen Männer und die gläubigen Frauen. Allah kennt euren Wandel und euren Aufenthalt.",
+        "en": "So know, [O Muḥammad], that there is no deity except Allāh and ask forgiveness for your sin and for the believing men and believing women. And Allāh knows of your movement and your resting place."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 47,
+      "ayah": 31,
+      "arabic": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَـٰهِدِينَ مِنكُمْ وَٱلصَّـٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ",
+      "translation": {
+        "de": "Und Wir werden euch ganz gewiß prüfen, bis Wir feststellen, welche sich abmühen von euch und welche standhaft sind, und bis Wir eure Werke prüfen.",
+        "en": "And We will surely test you until We make evident those who strive among you [for the cause of Allāh] and the patient, and We will test your affairs."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 49,
+      "ayah": 10,
+      "arabic": "إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "translation": {
+        "de": "Die Gläubigen sind doch Brüder. So stiftet Frieden zwischen euren beiden Brüdern und fürchtet Allah, auf daß ihr Erbarmen finden möget.",
+        "en": "The believers are but brothers, so make settlement between your brothers. And fear Allāh that you may receive mercy."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 50,
+      "ayah": 39,
+      "arabic": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ",
+      "translation": {
+        "de": "So ertrage standhaft, was sie sagen, und lobpreise deinen Herrn vor dem Aufgang der Sonne und vor dem Untergang,",
+        "en": "So be patient, [O Muḥammad], over what they say and exalt [Allāh] with praise of your Lord before the rising of the sun and before its setting,"
+      },
+      "categories": [
+        "patience",
+        "prayer"
+      ]
+    },
+    {
+      "surah": 51,
+      "ayah": 18,
+      "arabic": "وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ",
+      "translation": {
+        "de": "und im letzten Teil der Nacht pflegten sie um Vergebung zu bitten,",
+        "en": "And in the hours before dawn they would ask forgiveness,"
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 48,
+      "arabic": "وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+      "translation": {
+        "de": "Sei standhaft gegenüber dem Urteil deines Herrn. Gewiß, du bist ja vor Unseren Augen. Und lobpreise deinen Herrn, wenn du aufstehst,",
+        "en": "And be patient, [O Muḥammad], for the decision of your Lord, for indeed, you are in Our eyes [i.e., sight]. And exalt [Allāh] with praise of your Lord when you arise"
+      },
+      "categories": [
+        "patience",
+        "prayer"
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 32,
+      "arabic": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "translation": {
+        "de": "Diejenigen, die schwerwiegende Sünden und Abscheulichkeiten meiden, außer leichten Verfehlungen... Gewiß, dein Herr ist Allumfassend in (Seiner) Vergebung. Er weiß sehr wohl über euch Bescheid, als Er euch aus der Erde hervorgebracht hat und als ihr Keimlinge in den Leibern eurer Mütter gewesen seid. So erklärt nicht euch selbst für lauter. Er weiß sehr wohl, wer gottesfürchtig ist.",
+        "en": "Those who avoid the major sins and immoralities, only [committing] slight ones. Indeed, your Lord is vast in forgiveness. He was most knowing of you when He produced you from the earth and when you were fetuses in the wombs of your mothers. So do not claim yourselves to be pure; He is most knowing of who fears Him."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 62,
+      "arabic": "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩",
+      "translation": {
+        "de": "Werft euch doch vor Allah nieder und dient (Ihm).",
+        "en": "So prostrate to Allāh and worship [Him]."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 74,
+      "arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "translation": {
+        "de": "Darum preise den Namen deines Allgewaltigen Herrn.",
+        "en": "So exalt the name of your Lord, the Most Great."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 57,
+      "ayah": 9,
+      "arabic": "هُوَ ٱلَّذِى يُنَزِّلُ عَلَىٰ عَبْدِهِۦٓ ءَايَـٰتٍۭ بَيِّنَـٰتٍ لِّيُخْرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَإِنَّ ٱللَّهَ بِكُمْ لَرَءُوفٌ رَّحِيمٌ",
+      "translation": {
+        "de": "Er ist es, Der Seinem Diener klare Zeichen offenbart, damit Er euch aus den Finsternissen ins Licht hinausbringt. Und Allah ist wahrlich mit euch Gnädig und Barmherzig.",
+        "en": "It is He who sends down upon His Servant [Muḥammad (ﷺ)] verses of clear evidence that He may bring you out from darknesses into the light. And indeed, Allāh is to you Kind and Merciful."
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 57,
+      "ayah": 21,
+      "arabic": "سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "translation": {
+        "de": "Wetteilt zu Vergebung von eurem Herrn und (zu) einem (Paradies)garten, dessen Breite wie die Breite der Himmel und der Erde ist, bereitet für diejenigen, die an Allah und Seine Gesandten glauben. Das ist Allahs Huld, die Er gewährt, wem Er will. Und Allah besitzt große Huld.",
+        "en": "Race [i.e., compete] toward forgiveness from your Lord and a Garden whose width is like the width of the heavens and earth, prepared for those who believed in Allāh and His messengers. That is the bounty of Allāh which He gives to whom He wills, and Allāh is the possessor of great bounty."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 57,
+      "ayah": 28,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَءَامِنُوا۟ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "translation": {
+        "de": "O die ihr glaubt, fürchtet Allah und glaubt an Seinen Gesandten, dann gibt Er euch einen zweifachen Anteil an Seiner Barmherzigkeit und macht euch ein Licht, in dem ihr gehen könnt, und vergibt euch. Allah ist Allvergebend und Barmherzig.",
+        "en": "O you who have believed, fear Allāh and believe in His Messenger; He will [then] give you a double portion of His mercy and make for you a light by which you will walk and forgive you; and Allāh is Forgiving and Merciful."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 59,
+      "ayah": 10,
+      "arabic": "وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَـٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌ رَّحِيمٌ",
+      "translation": {
+        "de": "Und diejenigen, die nach ihnen gekommen sind, sagen: Unser Herr, vergib uns und unseren Brüdern, die uns im Glauben vorausgegangen sind, und lasse in unseren Herzen keinen Groll sein gegen diejenigen, die glauben. Unser Herr, Du bist ja Gnädig und Barmherzig.",
+        "en": "And [there is a share for] those who come after them, saying, \"Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful.\""
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 59,
+      "ayah": 22,
+      "arabic": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ۖ هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ",
+      "translation": {
+        "de": "Er ist Allah, außer dem es keinen Gott gibt, der Kenner des Verborgenen und des Offenbaren. Er ist der Allerbarmer und Barmherzige.",
+        "en": "He is Allāh, other than whom there is no deity, Knower of the unseen and the witnessed. He is the Entirely Merciful, the Especially Merciful."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 62,
+      "ayah": 9,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "translation": {
+        "de": "O die ihr glaubt, wenn zum Gebet gerufen wird am Freitag, dann eilt zu Allahs Gedenken und laßt das Kaufgeschäft. Das ist besser für euch, wenn ihr wißt.",
+        "en": "O you who have believed, when [the adhān] is called for the prayer on the day of Jumuʿah [Friday], then proceed to the remembrance of Allāh and leave trade. That is better for you, if you only knew."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 63,
+      "ayah": 9,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+      "translation": {
+        "de": "O die ihr glaubt, nicht ablenken sollen euch euer Besitz und eure Kinder von Allahs Gedenken. Diejenigen, die dies tun, das sind die Verlierer.",
+        "en": "O you who have believed, let not your wealth and your children divert you from the remembrance of Allāh. And whoever does that - then those are the losers."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 64,
+      "ayah": 11,
+      "arabic": "مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ يَهْدِ قَلْبَهُۥ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "translation": {
+        "de": "Kein Unglück trifft (jemanden), außer mit Allahs Erlaubnis. Und wer an Allah glaubt, dessen Herz leitet Er recht. Und Allah weiß über alles Bescheid.",
+        "en": "No disaster strikes except by permission of Allāh. And whoever believes in Allāh - He will guide his heart. And Allāh is Knowing of all things."
+      },
+      "categories": [
+        "hope",
+        "guidance"
+      ]
+    },
+    {
+      "surah": 64,
+      "ayah": 13,
+      "arabic": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "translation": {
+        "de": "Allah - es gibt keinen Gott außer Ihm. Und auf Allah sollen sich die Gläubigen verlassen.",
+        "en": "Allāh - there is no deity except Him. And upon Allāh let the believers rely."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 64,
+      "ayah": 14,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ مِنْ أَزْوَٰجِكُمْ وَأَوْلَـٰدِكُمْ عَدُوًّا لَّكُمْ فَٱحْذَرُوهُمْ ۚ وَإِن تَعْفُوا۟ وَتَصْفَحُوا۟ وَتَغْفِرُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "translation": {
+        "de": "O die ihr glaubt, unter euren Gattinnen und euren Kindern gibt es welche, die euch feind sind; so seht euch vor ihnen vor. Wenn ihr aber verzeiht, nachsichtig seid und vergebt - gewiß, so ist Allah Allvergebend und Barmherzig.",
+        "en": "O you who have believed, indeed, among your spouses and your children are enemies to you, so beware of them. But if you pardon and overlook and forgive - then indeed, Allāh is Forgiving and Merciful."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 64,
+      "ayah": 17,
+      "arabic": "إِن تُقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَـٰعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ شَكُورٌ حَلِيمٌ",
+      "translation": {
+        "de": "Wenn ihr Allah ein gutes Darlehen gebt, wird Er es euch vervielfachen und euch vergeben. Und Allah ist stets zu Dank bereit und Nachsichtig.",
+        "en": "If you loan Allāh a goodly loan, He will multiply it for you and forgive you. And Allāh is [most] Appreciative and Forbearing,"
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 65,
+      "ayah": 3,
+      "arabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا",
+      "translation": {
+        "de": "und gewährt ihm Versorgung, von wo (aus) er damit nicht rechnet. Und wer sich auf Allah verläßt, dem ist Er seine Genüge. Allah wird gewiß (die Durchführung) seine(r) Angelegenheit erreichen. Allah legt ja für alles ein Maß fest.",
+        "en": "And will provide for him from where he does not expect. And whoever relies upon Allāh - then He is sufficient for him. Indeed, Allāh will accomplish His purpose. Allāh has already set for everything a [decreed] extent."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 65,
+      "ayah": 7,
+      "arabic": "لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+      "translation": {
+        "de": "Der Wohlhabende soll entsprechend seinem Wohlstand (die Aufwendungen) ausgeben. Und wem seine Versorgung bemessen (zugeteilt) wurde, der soll (eben) von dem ausgeben, was Allah ihm gegeben hat. Allah erlegt keiner Seele mehr auf als das, was Er ihr gegeben hat. Allah wird nach Schwierigkeit Erleichterung schaffen.",
+        "en": "Let a man of wealth spend from his wealth, and he whose provision is restricted - let him spend from what Allāh has given him. Allāh does not charge a soul except [according to] what He has given it. Allāh will bring about, after hardship, ease [i.e., relief]."
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 67,
+      "ayah": 12,
+      "arabic": "إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+      "translation": {
+        "de": "Gewiß, diejenigen, die ihren Herrn im Verborgenen fürchten, für sie wird es Vergebung und großen Lohn geben.",
+        "en": "Indeed, those who fear their Lord unseen will have forgiveness and great reward."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 67,
+      "ayah": 19,
+      "arabic": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَـٰٓفَّـٰتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَـٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ",
+      "translation": {
+        "de": "Sehen sie denn nicht auf die Vögel über ihnen, wie sie ihre Flügel ausgebreitet halten und einziehen? Nur der Allerbarmer hält sie. Gewiß, Er sieht alles wohl.",
+        "en": "Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing."
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 67,
+      "ayah": 23,
+      "arabic": "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ",
+      "translation": {
+        "de": "Sag: Er ist es, Der euch hat entstehen lassen und euch Gehör, Augenlicht und Herzen gemacht hat. Wie wenig ihr dankbar seid!",
+        "en": "Say, \"It is He who has produced you and made for you hearing and vision and hearts [i.e., intellect]; little are you grateful.\""
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 67,
+      "ayah": 29,
+      "arabic": "قُلْ هُوَ ٱلرَّحْمَـٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَـٰلٍ مُّبِينٍ",
+      "translation": {
+        "de": "Sag: Er ist der Allerbarmer. Wir glauben an Ihn, und auf Ihn verlassen wir uns. Ihr werdet (noch) erfahren, wer sich in deutlichem Irrtum befindet.",
+        "en": "Say, \"He is the Most Merciful; we have believed in Him, and upon Him we have relied. And you will [come to] know who it is that is in clear error.\""
+      },
+      "categories": [
+        "mercy"
+      ]
+    },
+    {
+      "surah": 70,
+      "ayah": 5,
+      "arabic": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+      "translation": {
+        "de": "Darum sei standhaft in schöner Geduld.",
+        "en": "So be patient with gracious patience."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 71,
+      "ayah": 10,
+      "arabic": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا",
+      "translation": {
+        "de": "Ich sagte: .Bittet euren Herrn um Vergebung - Er ist ja Allvergebend -,",
+        "en": "And said, 'Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver."
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 71,
+      "ayah": 28,
+      "arabic": "رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارًۢا",
+      "translation": {
+        "de": "Mein Herr, vergib mir und meinen Eltern und demjenigen, der als Gläubiger mein Haus betritt, und den gläubigen Männern und den gläubigen Frauen. Und stürze die Ungerechten nur noch tiefer ins Verderben.",
+        "en": "My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.\""
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 73,
+      "ayah": 9,
+      "arabic": "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا",
+      "translation": {
+        "de": "(Er ist) der Herr des Ostens und des Westens. Es gibt keinen Gott außer Ihm. So nimm Ihn dir zum Sachwalter.",
+        "en": "[He is] the Lord of the East and the West; there is no deity except Him, so take Him as Disposer of [your] affairs."
+      },
+      "categories": [
+        "trust"
+      ]
+    },
+    {
+      "surah": 73,
+      "ayah": 10,
+      "arabic": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا",
+      "translation": {
+        "de": "Und ertrage standhaft, was sie sagen, und meide sie auf schöne Weise.",
+        "en": "And be patient over what they say and avoid them with gracious avoidance."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 74,
+      "ayah": 7,
+      "arabic": "وَلِرَبِّكَ فَٱصْبِرْ",
+      "translation": {
+        "de": "und ertrage standhaft (alles) für deinen Herrn.",
+        "en": "But for your Lord be patient."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 76,
+      "ayah": 3,
+      "arabic": "إِنَّا هَدَيْنَـٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+      "translation": {
+        "de": "Wir haben ihn ja den (rechten) Weg geleitet, ob er nun dankbar oder undankbar sein mag.",
+        "en": "Indeed, We guided him to the way, be he grateful or be he ungrateful."
+      },
+      "categories": [
+        "gratitude"
+      ]
+    },
+    {
+      "surah": 76,
+      "ayah": 12,
+      "arabic": "وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةً وَحَرِيرًا",
+      "translation": {
+        "de": "und ihnen vergelten, daß sie standhaft gewesen sind, mit einem Garten und mit Seide,",
+        "en": "And will reward them for what they patiently endured [with] a garden [in Paradise] and silk [garments]."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 76,
+      "ayah": 24,
+      "arabic": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًا",
+      "translation": {
+        "de": "So sei standhaft in Bezug auf das Urteil deines Herrn, und gehorche von ihnen keinem Sündhaften oder sehr Undankbaren.",
+        "en": "So be patient for the decision of your Lord and do not obey from among them a sinner or ungrateful [disbeliever]."
+      },
+      "categories": [
+        "patience"
+      ]
+    },
+    {
+      "surah": 76,
+      "ayah": 25,
+      "arabic": "وَٱذْكُرِ ٱسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا",
+      "translation": {
+        "de": "Und gedenke des Namens deines Herrn morgens und abends,",
+        "en": "And mention the name of your Lord [in prayer] morning and evening"
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 76,
+      "ayah": 26,
+      "arabic": "وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+      "translation": {
+        "de": "und in (einem Teil) der Nacht, da wirf dich vor Ihm nieder und preise Ihn lange Zeit zur Nacht.",
+        "en": "And during the night prostrate to Him and exalt [i.e., praise] Him a long [part of the] night."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 14,
+      "arabic": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+      "translation": {
+        "de": "Und Er ist der Allvergebende und Liebevolle,",
+        "en": "And He is the Forgiving, the Affectionate,"
+      },
+      "categories": [
+        "forgiveness"
+      ]
+    },
+    {
+      "surah": 87,
+      "ayah": 1,
+      "arabic": "سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+      "translation": {
+        "de": "Preise den Namen deines höchsten Herrn,",
+        "en": "Exalt the name of your Lord, the Most High,"
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 87,
+      "ayah": 8,
+      "arabic": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+      "translation": {
+        "de": "Und Wir werden dir den Weg zum Leichteren leicht machen.",
+        "en": "And We will ease you toward ease."
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 93,
+      "ayah": 3,
+      "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "translation": {
+        "de": "Dein Herr hat sich weder von dir verabschiedet noch haßt Er (dich).",
+        "en": "Your Lord has not taken leave of you, [O Muḥammad], nor has He detested [you]."
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 93,
+      "ayah": 4,
+      "arabic": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "translation": {
+        "de": "Und das Jenseits ist wahrlich besser für dich als das Diesseits.",
+        "en": "And the Hereafter is better for you than the first [life]."
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 93,
+      "ayah": 5,
+      "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "translation": {
+        "de": "Und dein Herr wird dir wahrlich geben, und dann wirst du zufrieden sein.",
+        "en": "And your Lord is going to give you, and you will be satisfied."
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 93,
+      "ayah": 7,
+      "arabic": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "translation": {
+        "de": "und dich irregehend gefunden und dann rechtgeleitet",
+        "en": "And He found you lost and guided [you],"
+      },
+      "categories": [
+        "guidance"
+      ]
+    },
+    {
+      "surah": 94,
+      "ayah": 5,
+      "arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "translation": {
+        "de": "Also gewiß, mit der Erschwernis ist Erleichterung,",
+        "en": "For indeed, with hardship [will be] ease [i.e., relief]."
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 94,
+      "ayah": 6,
+      "arabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "translation": {
+        "de": "gewiß, mit der Erschwernis ist Erleichterung.",
+        "en": "Indeed, with hardship [will be] ease."
+      },
+      "categories": [
+        "hope"
+      ]
+    },
+    {
+      "surah": 96,
+      "ayah": 19,
+      "arabic": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "translation": {
+        "de": "Keineswegs! Gehorche ihm nicht, sondern wirf dich nieder und sei (Allah) nah!",
+        "en": "No! Do not obey him. But prostrate and draw near [to Allāh]."
+      },
+      "categories": [
+        "prayer"
+      ]
+    },
+    {
+      "surah": 98,
+      "ayah": 5,
+      "arabic": "وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ",
+      "translation": {
+        "de": "Und nichts anderes wurde ihnen befohlen, als nur Allah zu dienen und (dabei) Ihm gegenüber aufrichtig in der Religion (zu sein), als Anhänger des rechten Glaubens, und das Gebet zu verrichten und die Abgabe zu entrichten; das ist die Religion des rechten Verhaltens.",
+        "en": "And they were not commanded except to worship Allāh, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakāh. And that is the correct religion."
+      },
+      "categories": [
+        "prayer"
+      ]
+    }
+  ]
+}
