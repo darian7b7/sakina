@@ -77,3 +77,7 @@ After rebuilding the content, restart the app (in `flutter run`, press `R`).
 | `lib/ui/` | Today, Categories, Saved, Settings |
 
 Packages: `flutter_local_notifications`, `timezone`, `flutter_timezone`, `shared_preferences`, `share_plus`.
+
+## License
+
+The code is under the [MIT License](LICENSE). The data keeps its own licence (see the sources above).
