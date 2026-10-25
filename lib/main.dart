@@ -3,10 +3,9 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:flutter_timezone/flutter_timezone.dart';
+import 'package:family_reminders/family_reminders.dart';
+import 'package:family_ui/family_ui.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:timezone/data/latest.dart' as tzdata;
-import 'package:timezone/timezone.dart' as tz;
 
 import 'core/content.dart';
 import 'core/strings.dart';
@@ -16,17 +15,11 @@ import 'ui/categories.dart';
 import 'ui/saved.dart';
 import 'ui/settings.dart';
 import 'ui/today.dart';
-
-const seedColor = Color(0xFF0F766E); // calm teal
+import 'ui/welcome.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  tzdata.initializeTimeZones();
-  try {
-    tz.setLocalLocation(tz.getLocation((await FlutterTimezone.getLocalTimezone()).identifier));
-  } catch (_) {
-    // Unknown zone: times fall back to UTC.
-  }
+  await initLocalTimezone();
 
   final Content content;
   try {
@@ -44,10 +37,7 @@ Future<void> main() async {
   runApp(SakinaApp(state));
 }
 
-ThemeData _theme(Brightness brightness) => ThemeData(
-      colorScheme: ColorScheme.fromSeed(seedColor: seedColor, brightness: brightness),
-      cardTheme: const CardThemeData(elevation: 0, margin: EdgeInsets.zero),
-    );
+ThemeData _theme(Brightness brightness) => familyTheme(FamilyApps.sakina, brightness);
 
 class SakinaApp extends StatefulWidget {
   const SakinaApp(this.state, {super.key});
@@ -91,7 +81,7 @@ class _SakinaAppState extends State<SakinaApp> with WidgetsBindingObserver {
         locale: Locale(state.lang),
         supportedLocales: [for (final l in languages.keys) Locale(l)],
         localizationsDelegates: GlobalMaterialLocalizations.delegates,
-        home: HomeShell(state),
+        home: state.welcomed ? HomeShell(state) : WelcomeScreen(state),
       ),
     );
   }
@@ -127,10 +117,13 @@ class _HomeShellState extends State<HomeShell> {
   Widget build(BuildContext context) {
     final state = widget.state;
     final lang = state.lang;
-    final titles = [appName, tr(lang, 'nav.categories'), tr(lang, 'nav.saved')];
     return Scaffold(
       appBar: AppBar(
-        title: Text(titles[_tab]),
+        title: switch (_tab) {
+          0 => const AppWordmark(FamilyApps.sakina),
+          1 => Text(tr(lang, 'nav.categories')),
+          _ => Text(tr(lang, 'nav.saved')),
+        },
         actions: [
           IconButton(
             tooltip: tr(lang, 'settings'),

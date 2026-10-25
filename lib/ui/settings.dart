@@ -1,3 +1,4 @@
+import 'package:family_ui/family_ui.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
@@ -28,7 +29,7 @@ class SettingsScreen extends StatelessWidget {
           body: ListView(
             padding: const EdgeInsets.only(bottom: 32),
             children: [
-              _Header(tr(lang, 'reminders')),
+              SectionHeader(tr(lang, 'reminders')),
               SwitchListTile(
                 title: Text(tr(lang, 'reminders.on')),
                 value: state.remindersOn,
@@ -36,14 +37,14 @@ class SettingsScreen extends StatelessWidget {
                   if (!await state.setRemindersOn(on)) snack('reminders.denied');
                 },
               ),
-              if (kIsWeb) _Note(tr(lang, 'reminders.web')),
+              if (kIsWeb) Hint(tr(lang, 'reminders.web')),
               AnimatedOpacity(
                 duration: const Duration(milliseconds: 150),
                 opacity: state.remindersOn ? 1 : 0.5,
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    _Label(tr(lang, 'reminders.times')),
+                    FieldLabel(tr(lang, 'reminders.times')),
                     _Chips([
                       for (final m in state.times)
                         InputChip(label: Text(hhmm(m)), onDeleted: state.times.length > 1 ? () => state.removeTime(m) : null),
@@ -56,7 +57,7 @@ class SettingsScreen extends StatelessWidget {
                         },
                       ),
                     ]),
-                    _Label(tr(lang, 'reminders.days')),
+                    FieldLabel(tr(lang, 'reminders.days')),
                     _Chips([
                       for (final (i, name) in weekdayNames(lang).indexed)
                         FilterChip(
@@ -66,7 +67,7 @@ class SettingsScreen extends StatelessWidget {
                           onSelected: (_) => state.toggleWeekday(i + 1),
                         ),
                     ]),
-                    _Label(tr(lang, 'reminders.upcoming')),
+                    FieldLabel(tr(lang, 'reminders.upcoming')),
                     ..._upcoming(state, muted),
                   ],
                 ),
@@ -78,23 +79,12 @@ class SettingsScreen extends StatelessWidget {
                   if (!await state.sendTest()) snack('reminders.denied');
                 },
               ),
-              const Divider(height: 32),
-              _Header(tr(lang, 'display')),
-              _Label(tr(lang, 'language')),
-              _Padded(SegmentedButton<String>(
-                segments: [for (final e in languages.entries) ButtonSegment(value: e.key, label: Text(e.value))],
-                selected: {lang},
-                onSelectionChanged: (s) => state.setLang(s.first),
-              )),
-              _Label(tr(lang, 'theme')),
-              _Padded(SegmentedButton<ThemeMode>(
-                segments: [
-                  for (final m in ThemeMode.values) ButtonSegment(value: m, label: Text(tr(lang, 'theme.${m.name}'))),
-                ],
-                selected: {state.themeMode},
-                onSelectionChanged: (s) => state.setThemeMode(s.first),
-              )),
-              _Label(tr(lang, 'arabicSize')),
+                            SectionHeader(tr(lang, 'display')),
+              FieldLabel(tr(lang, 'language')),
+              Padded(LanguagePicker(lang: lang, onChanged: state.setLang)),
+              FieldLabel(tr(lang, 'theme')),
+              Padded(ThemePicker(lang: lang, mode: state.themeMode, onChanged: state.setThemeMode)),
+              FieldLabel(tr(lang, 'arabicSize')),
               Slider(
                 value: state.arabicScale,
                 min: 0.8,
@@ -102,9 +92,11 @@ class SettingsScreen extends StatelessWidget {
                 divisions: 4,
                 onChanged: state.setArabicScale,
               ),
-              const Divider(height: 32),
-              _Header(tr(lang, 'about')),
-              _Note(tr(lang, 'about.text')),
+                            SectionHeader(tr(lang, 'about')),
+              Hint(tr(lang, 'about.text')),
+              PrivacyPromise(lang: lang),
+              const SizedBox(height: 8),
+              MoreFromUs(current: FamilyApps.sakina, lang: lang),
             ],
           ),
         );
@@ -116,7 +108,7 @@ class SettingsScreen extends StatelessWidget {
     final lang = state.lang;
     final now = DateTime.now().millisecondsSinceEpoch;
     final next = state.plan.where((p) => p.time > now).take(3).toList();
-    if (!state.remindersOn || next.isEmpty) return [_Note(tr(lang, 'reminders.none'))];
+    if (!state.remindersOn || next.isEmpty) return [Hint(tr(lang, 'reminders.none'))];
     return [
       for (final p in next)
         ListTile(
@@ -132,52 +124,10 @@ class SettingsScreen extends StatelessWidget {
   }
 }
 
-class _Header extends StatelessWidget {
-  const _Header(this.text);
-  final String text;
-
-  @override
-  Widget build(BuildContext context) => Padding(
-        padding: const EdgeInsets.fromLTRB(16, 16, 16, 4),
-        child: Text(text, style: Theme.of(context).textTheme.titleSmall?.copyWith(color: Theme.of(context).colorScheme.primary)),
-      );
-}
-
-class _Label extends StatelessWidget {
-  const _Label(this.text);
-  final String text;
-
-  @override
-  Widget build(BuildContext context) => Padding(
-        padding: const EdgeInsets.fromLTRB(16, 12, 16, 8),
-        child: Text(text, style: Theme.of(context).textTheme.labelLarge),
-      );
-}
-
-class _Note extends StatelessWidget {
-  const _Note(this.text);
-  final String text;
-
-  @override
-  Widget build(BuildContext context) => Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
-        child: Text(text, style: TextStyle(color: Theme.of(context).colorScheme.onSurfaceVariant)),
-      );
-}
-
 class _Chips extends StatelessWidget {
   const _Chips(this.children);
   final List<Widget> children;
 
   @override
-  Widget build(BuildContext context) =>
-      _Padded(Wrap(spacing: 8, runSpacing: 8, children: children));
-}
-
-class _Padded extends StatelessWidget {
-  const _Padded(this.child);
-  final Widget child;
-
-  @override
-  Widget build(BuildContext context) => Padding(padding: const EdgeInsets.symmetric(horizontal: 16), child: child);
+  Widget build(BuildContext context) => Padded(Wrap(spacing: 8, runSpacing: 8, children: children));
 }

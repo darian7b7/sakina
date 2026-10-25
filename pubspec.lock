@@ -97,6 +97,20 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.3.3"
+  family_reminders:
+    dependency: "direct main"
+    description:
+      path: "../family_kit/family_reminders"
+      relative: true
+    source: path
+    version: "0.1.0"
+  family_ui:
+    dependency: "direct main"
+    description:
+      path: "../family_kit/family_ui"
+      relative: true
+    source: path
+    version: "0.1.0"
   ffi:
     dependency: transitive
     description:
@@ -143,7 +157,7 @@ packages:
     source: hosted
     version: "6.0.0"
   flutter_local_notifications:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: flutter_local_notifications
       sha256: "9ee28742343dd13df758bb4185e8ded37ac2d1aeca6648c3ba7862c99797517e"
@@ -193,7 +207,7 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_timezone:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: flutter_timezone
       sha256: "7830bc64bef0b003468fc1f58fc3f3faf54817f8cd6e68fa818b306560410d68"

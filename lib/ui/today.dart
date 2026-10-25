@@ -1,3 +1,4 @@
+import 'package:family_ui/family_ui.dart';
 import 'package:flutter/material.dart';
 
 import '../core/strings.dart';
@@ -18,7 +19,7 @@ class TodayScreen extends StatelessWidget {
       return EmptyState(icon: Icons.menu_book_outlined, text: tr(lang, 'empty.content'));
     }
     final ayah = state.current;
-    if (ayah == null) {
+    if (ayah == null && state.mood == null) {
       return EmptyState(
         icon: Icons.category_outlined,
         text: tr(lang, 'empty.selection'),
@@ -27,10 +28,13 @@ class TodayScreen extends StatelessWidget {
       );
     }
 
+    if (ayah == null) return const SizedBox.shrink(); // a mood topic always has verses
     final saved = state.isSaved(ayah.id);
     return ListView(
-      padding: const EdgeInsets.fromLTRB(16, 8, 16, 24),
+      padding: const EdgeInsets.fromLTRB(16, 0, 16, 24),
       children: [
+        _Feelings(state),
+        const SizedBox(height: 12),
         AnimatedSwitcher(
           duration: const Duration(milliseconds: 250),
           child: AyahCard(ayah, key: ValueKey(ayah.id), lang: lang, arabicScale: state.arabicScale),
@@ -68,6 +72,45 @@ class TodayScreen extends StatelessWidget {
         ),
         const SizedBox(height: 24),
         _NextReminder(state),
+      ],
+    );
+  }
+}
+
+/// "How do you feel?": one tap shows verses for that feeling, a second tap goes back to all verses.
+class _Feelings extends StatelessWidget {
+  const _Feelings(this.state);
+
+  final AppState state;
+
+  @override
+  Widget build(BuildContext context) {
+    final lang = state.lang;
+    final topics = {for (final c in state.content.categories) c.id};
+    final available = [for (final (mood, topic) in moods) if (topics.contains(topic)) (mood, topic)];
+    if (available.isEmpty) return const SizedBox.shrink();
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Padding(
+          padding: const EdgeInsets.fromLTRB(4, 4, 4, 8),
+          child: Text(tr(lang, 'feel'), style: Theme.of(context).textTheme.titleSmall),
+        ),
+        SingleChildScrollView(
+          scrollDirection: Axis.horizontal,
+          clipBehavior: Clip.none,
+          child: Row(children: [
+            for (final (mood, topic) in available)
+              Padding(
+                padding: const EdgeInsets.only(right: 8),
+                child: ChoiceChip(
+                  label: Text(tr(lang, 'mood.$mood')),
+                  selected: state.mood == topic,
+                  onSelected: (_) => state.feel(topic),
+                ),
+              ),
+          ]),
+        ),
       ],
     );
   }

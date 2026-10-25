@@ -78,6 +78,10 @@ After rebuilding the content, restart the app (in `flutter run`, press `R`).
 
 Packages: `flutter_local_notifications`, `timezone`, `flutter_timezone`, `shared_preferences`, `share_plus`.
 
+## Shared code
+
+The look shared with the other apps of the family (theme, gold Arabic wordmark, settings pickers, "More from us") and the reminder plumbing comes from [family_kit](../family_kit), which must sit next to this folder (`~/family_kit`).
+
 ## License
 
 The code is under the [MIT License](LICENSE). The data keeps its own licence (see the sources above).

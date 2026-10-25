@@ -128,4 +128,35 @@ void main() {
     expect(r.current!.id, s.current!.id);
     expect(r.plan.map((p) => p.ayahId), s.plan.map((p) => p.ayahId));
   });
+
+  test('only the very first start shows the welcome', () async {
+    final s = AppState(testContent, prefs, FakeReminders());
+    expect(s.welcomed, isFalse);
+    await s.finishWelcome();
+    expect(AppState(testContent, prefs, FakeReminders()).welcomed, isTrue);
+  });
+
+  test('a feeling browses its own topic and survives a restart', () {
+    final s = AppState(testContent, prefs, FakeReminders());
+    s.feel('b');
+    expect(s.current!.categories, contains('b'));
+    s.next();
+    expect(s.current!.categories, contains('b'));
+    expect(s.canGoBack, isTrue);
+    final again = AppState(testContent, prefs, FakeReminders());
+    expect(again.mood, 'b');
+    expect(again.current!.id, s.current!.id);
+    s.open('9:1');
+    expect(s.mood, isNull, reason: 'opening a verse leaves the feeling');
+  });
+
+  test('delivered reminders are kept, newest first, without duplicates', () async {
+    final s = AppState(testContent, prefs, FakeReminders());
+    await s.setRemindersOn(true);
+    await s.refresh(at(14, 12));
+    await s.refresh(at(14, 21)); // 13:00 and 20:00 have been delivered
+    await s.refresh(at(14, 22));
+    expect([for (final r in s.received) r.time], [at(14, 20).millisecondsSinceEpoch, at(14, 13).millisecondsSinceEpoch]);
+    expect(AppState(testContent, prefs, FakeReminders()).received.length, 2);
+  });
 }

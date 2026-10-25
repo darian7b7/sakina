@@ -74,35 +74,3 @@ class AyahCard extends StatelessWidget {
     );
   }
 }
-
-/// Centered icon + message (+ optional button) for empty screens.
-class EmptyState extends StatelessWidget {
-  const EmptyState({super.key, required this.icon, required this.text, this.action, this.onAction});
-
-  final IconData icon;
-  final String text;
-  final String? action;
-  final VoidCallback? onAction;
-
-  @override
-  Widget build(BuildContext context) {
-    final theme = Theme.of(context);
-    return Center(
-      child: Padding(
-        padding: const EdgeInsets.all(32),
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Icon(icon, size: 48, color: theme.colorScheme.outline),
-            const SizedBox(height: 16),
-            Text(text, textAlign: TextAlign.center, style: theme.textTheme.bodyLarge?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
-            if (action != null) ...[
-              const SizedBox(height: 16),
-              FilledButton.tonal(onPressed: onAction, child: Text(action!)),
-            ],
-          ],
-        ),
-      ),
-    );
-  }
-}

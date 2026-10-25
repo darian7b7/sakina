@@ -2,6 +2,7 @@
 import 'dart:convert';
 import 'dart:math';
 
+import 'package:family_ui/family_ui.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:timezone/timezone.dart' as tz;
@@ -37,6 +38,13 @@ class AppState extends ChangeNotifier {
   List<int> times = [7 * 60, 13 * 60, 20 * 60]; // minutes of day, sorted
   Set<int> weekdays = {1, 2, 3, 4, 5, 6, 7};
   List<String> saved = []; // ayah ids, newest first
+  bool welcomed = true; // false only on the very first start
+
+  /// Topic chosen with "How do you feel?"; while set, Today shows verses from it.
+  String? mood;
+
+  /// Reminders that have been delivered, newest first.
+  List<PlannedReminder> received = [];
 
   // Reading position and reminder sequence
   int _seed = 0;
@@ -44,6 +52,7 @@ class AppState extends ChangeNotifier {
   String? _currentId;
   int _cursor = 0;
   int _lastSeenIndex = -1;
+  int _moodIndex = 0;
   List<PlannedReminder> plan = [];
 
   /// Bumped when the Today tab should be shown (e.g. a notification was opened).
@@ -53,12 +62,16 @@ class AppState extends ChangeNotifier {
 
   /// The verse shown on the Today tab.
   Ayah? get current {
+    if (mood != null) {
+      final id = ayahAt(content.poolIds({mood!}), _browseSeed ^ mood.hashCode, _moodIndex);
+      return id == null ? null : content.byId(id);
+    }
     final pool = poolIds;
     final id = (_currentId != null && pool.contains(_currentId)) ? _currentId : ayahAt(pool, _browseSeed, _browseIndex);
     return id == null ? null : content.byId(id);
   }
 
-  bool get canGoBack => _browseIndex > 0;
+  bool get canGoBack => mood != null ? _moodIndex > 0 : _browseIndex > 0;
   bool isSaved(String id) => saved.contains(id);
 
   /// Next reminder that hasn't fired yet.
@@ -74,8 +87,28 @@ class AppState extends ChangeNotifier {
 
   // --- Reading ---
 
-  void next() => _browse(_browseIndex + 1);
-  void previous() => _browse(max(0, _browseIndex - 1));
+  void next() => mood != null ? _browseMood(_moodIndex + 1) : _browse(_browseIndex + 1);
+  void previous() => mood != null ? _browseMood(max(0, _moodIndex - 1)) : _browse(max(0, _browseIndex - 1));
+
+  void _browseMood(int index) {
+    _moodIndex = index;
+    _commit();
+  }
+
+  /// Shows verses for a feeling (by its topic id); choosing the same one again goes back to all verses.
+  void feel(String? categoryId) {
+    mood = categoryId == mood ? null : categoryId;
+    _moodIndex = 0;
+    _commit();
+  }
+
+  /// Ends the first-start welcome; with [reminders] it switches them on (false if permission was denied).
+  Future<bool> finishWelcome({bool reminders = false}) async {
+    final ok = reminders ? await setRemindersOn(true) : true;
+    welcomed = true;
+    _commit();
+    return ok;
+  }
 
   void _browse(int index) {
     _browseIndex = index;
@@ -86,6 +119,7 @@ class AppState extends ChangeNotifier {
   /// Show a specific verse, e.g. from a notification or the saved list.
   void open(String ayahId) {
     if (content.byId(ayahId) == null) return;
+    mood = null;
     _currentId = ayahId;
     showToday.value++;
     _commit();
@@ -171,7 +205,12 @@ class AppState extends ChangeNotifier {
     if (delivered != null && delivered.index > _lastSeenIndex) {
       _lastSeenIndex = delivered.index;
       _currentId = delivered.ayahId;
+      mood = null;
     }
+    // Keep what was delivered before the plan is rebuilt, so it can be found again.
+    final known = {for (final r in received) r.time};
+    final arrived = [for (final p in plan) if (p.time <= nowMs && !known.contains(p.time)) p];
+    if (arrived.isNotEmpty) received = [...arrived.reversed, ...received].take(50).toList();
 
     _cursor = nextIndex(plan, nowMs, _cursor);
     final pool = poolIds;
@@ -194,9 +233,10 @@ class AppState extends ChangeNotifier {
     final raw = _prefs.getString(_key);
     if (raw == null) {
       // First start: device language, everything selected, fresh shuffle.
-      lang = WidgetsBinding.instance.platformDispatcher.locale.languageCode == 'de' ? 'de' : 'en';
+      lang = deviceLang('en');
       categories = {for (final c in content.categories) c.id};
       _seed = Random().nextInt(1 << 31);
+      welcomed = false;
       return;
     }
     final j = jsonDecode(raw) as Map<String, dynamic>;
@@ -209,6 +249,11 @@ class AppState extends ChangeNotifier {
     times = [for (final t in j['times'] as List? ?? times) t as int]..sort();
     weekdays = {for (final d in j['weekdays'] as List? ?? weekdays) d as int};
     saved = [for (final s in j['saved'] as List? ?? []) s as String];
+    welcomed = j['welcomed'] as bool? ?? true;
+    mood = j['mood'] as String?;
+    if (mood != null && !known.contains(mood)) mood = null;
+    _moodIndex = j['moodIndex'] as int? ?? 0;
+    received = [for (final r in j['received'] as List? ?? []) PlannedReminder.fromJson(r as Map<String, dynamic>)];
     _seed = j['seed'] as int? ?? 0;
     _browseIndex = j['browse'] as int? ?? 0;
     _currentId = j['current'] as String?;
@@ -226,6 +271,10 @@ class AppState extends ChangeNotifier {
         'times': times,
         'weekdays': weekdays.toList()..sort(),
         'saved': saved,
+        'welcomed': welcomed,
+        'mood': mood,
+        'moodIndex': _moodIndex,
+        'received': [for (final r in received) r.toJson()],
         'seed': _seed,
         'browse': _browseIndex,
         'current': _currentId,

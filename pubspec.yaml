@@ -9,10 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  family_ui:
+    path: ../family_kit/family_ui
+  family_reminders:
+    path: ../family_kit/family_reminders
   flutter_localizations:
     sdk: flutter
-  flutter_local_notifications: ^22.3.2
-  flutter_timezone: ^5.1.1
   share_plus: ^13.3.1
   shared_preferences: ^2.5.6
   timezone: ^0.11.2
