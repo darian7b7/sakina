@@ -100,16 +100,20 @@ packages:
   family_reminders:
     dependency: "direct main"
     description:
-      path: "../family_kit/family_reminders"
-      relative: true
-    source: path
+      path: family_reminders
+      ref: HEAD
+      resolved-ref: af8b0f8969390721eb9bfdcb9421f53c570d6455
+      url: "https://github.com/darian7b7/family_kit.git"
+    source: git
     version: "0.1.0"
   family_ui:
     dependency: "direct main"
     description:
-      path: "../family_kit/family_ui"
-      relative: true
-    source: path
+      path: family_ui
+      ref: HEAD
+      resolved-ref: af8b0f8969390721eb9bfdcb9421f53c570d6455
+      url: "https://github.com/darian7b7/family_kit.git"
+    source: git
     version: "0.1.0"
   ffi:
     dependency: transitive

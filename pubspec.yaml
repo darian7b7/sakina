@@ -10,9 +10,13 @@ dependencies:
   flutter:
     sdk: flutter
   family_ui:
-    path: ../family_kit/family_ui
+    git:
+      url: https://github.com/darian7b7/family_kit.git
+      path: family_ui
   family_reminders:
-    path: ../family_kit/family_reminders
+    git:
+      url: https://github.com/darian7b7/family_kit.git
+      path: family_reminders
   flutter_localizations:
     sdk: flutter
   share_plus: ^13.3.1
